@@ -4141,17 +4141,17 @@ Ti avviso che... Le navi della zona hanno avviato una scansione profonda per que
 Le Navi dei Figli della Luce stanno attivando il loro sistema di attacco. Non rilevo alcun segno del meccanismo di infiltrazione... \nDovremo difenderci.
 Le Navi dei Figli della Luce si avvicinano!
 Il Mech di infiltrazione è stato lanciato dalla struttura... Dobbiamo recuperarlo il prima possibile e lasciare l'area! \ nLe Navi dei Figli della Luce si stanno avvicinando.
-Il Mechanoid è a bordo - partiamo immediatamente!
-La información de Juno era correcta. Detecto un frammento dentro de la stazione de Hedonville.
-Nos estamos acercando al lugar de la anomalía espacial, que ya no està presente. Todavía se\nestà emitiendo la señal de emergencia codificada.
-Nos estamos acercando a la instalación que mencionó Trag. Detecto cantidades residuales de Hexxite en los alrededores,\naunque muchas de las navi estàn protegidas contro los escaneos.
-Esta debería ser una cantidad suficiente de Hexxite. Procede retirarse.
-Parece que los Figli della Luce no se han olvidado de nosotros. Deberíamos tener cuidado.
-I escàneres de largo alcance indican la presencia de un frammento en este campo de Tetraedrite. Las propiedades de las masas\nde aquí dificultan los escaneos de precisione. Sugiero usar tu Scanner ad Impulsi a través de este campo para fijar la ubicación.\nTendràs que estar bastante cerca.
-Ahí. Hemos localizado el frammento incrustado en esa masa. Si la destruimos, el frammento debería liberarse sin daños.
-Detecto navi dei Figli della Luce en rumbo de aproximación. Parece que intentan cumplir su amenaza.
-He recuperado el frammento.
-Parece que las navi dei Figli della Luce estàn usando sistema de interferencias. No podremos escanearlas para detectar la presencia de un chip de identificación.
+Il Mech è a bordo - partiamo immediatamente!
+Le informazioni di Juno erano corrette. Rilevo un frammento all'interno della stazione di Hedonville
+Ci stiamo avvicinando al luogo dell'anomalia spaziale, che non è più presente. Il segnale di emergenza\n codificato viene ancora trasmesso.
+Ci stiamo avvicinando all'installazione menzionata da Trag. Rilevo quantità residue di Hexxite nei dintorni, sebbene molte delle navi siano protette dalle scansioni.
+Questa dovrebbe essere una quantità sufficiente di Hexxite. Ora ritiriamoci.
+Sembra che i Figli della Luce non si siano dimenticati di noi. Dobbiamo stare attenti.
+Gli scanner a lungo raggio indicano la presenza di un frammento in questo campo di Tetraedrite. Le proprietà di queste rocce \nrendono difficile la scansione di precisione. Suggerisco di utilizzare lo scanner ad impulsi attraverso questo ammasso per trovar la posizione. \ndovresti essere abbastanza vicino.
+Là. Abbiamo individuato il frammento all'interno di quell'ammasso. Se lo distruggiamo, il frammento dovrebbe essere liberato senza danni.
+Rilevo navi dei Figli della Luce in avvicinamento. Sembrano minacciosi.
+Ho recuperato il frammento
+Sembra che le Navi dei Figli della Luce stiano usando un sistema di disturbo. Non sarà possibile scansionarli per rilevare la presenza di un chip di identificazione.
 Il chip de identificación ha sido recuperado.
 Creo que deberías saber que el individuo llamado Sandar se està acercando a nosotros a gran velocità.
 Qué raro. He detectado una serie de explosiones dentro de la instalación.

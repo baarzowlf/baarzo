@@ -4152,42 +4152,42 @@ Là. Abbiamo individuato il frammento all'interno di quell'ammasso. Se lo distru
 Rilevo navi dei Figli della Luce in avvicinamento. Sembrano minacciosi.
 Ho recuperato il frammento
 Sembra che le Navi dei Figli della Luce stiano usando un sistema di disturbo. Non sarà possibile scansionarli per rilevare la presenza di un chip di identificazione.
-Il chip de identificación ha sido recuperado.
-Creo que deberías saber que el individuo llamado Sandar se està acercando a nosotros a gran velocità.
-Qué raro. He detectado una serie de explosiones dentro de la instalación.
-Nos acercamos a le coordinate. Estoy detectando una nave màs grande con armamento balístico pesado.
-Nos estamos acercando a una nave muy grande. Puede que esta cumpla los requisitos de Zenya.
-Tal vez detecte otro frammento de mi Reliquiario en el siguiente sistema. Puede que haya ideado una forma de aumentar mi alcance de escaneo.
-He detectado una nave pequeña saliendo de la instalación.
-Parece que la nave mercante transporta el frammento del Reliquiario. Tal vez deberíamos establecer contacto.
-Il frammento ha sido transferido a bordo de forma segura.
-I Viriax estàn emergiendo de anomalías similares a la que detectamos anteriormente.
-He detectado la ubicación del último frammento, pero hay... complicaciones.
-La Milizia parece estar construyendo una Portale Iperluce en esta ubicación. Tal vez podamos obviar la necesidad de tal dispositivo.
-Si estàs en lo cierto, intentaré abrir la puerta ahora.
-La puerta se ha abierto.
-Estoy intentado localizar el frammento restante del Reliquiario en este sistema. Sin embargo, la interferencia subespacial que perturba\nla estabilidad de las puertas està teniendo un efecto similar en mis escàneres.
-Una nave Viriax de tipo Corazzata se està acercando. Sus armas no estàn preparadas.
-He conseguido traducir parte del idioma Viriax basàndome en viejos registros. No obstante, eso tendrà que esperar.\nLa nave Viriax està preparando las armas.
-He aislado tres posibles ubicaciones donde puede estar el frammento. Tendremos que acercarnos a cada una para\nrealizar un escaneo de precisione.
-Nos estamos acercando a una de las posibles ubicaciones. Parece ser un puesto de Avanzata Viriax de algún tipo.
-Llevarà un rato completar un escaneo de precisione.
-La nave Viriax nos ha visto e se acerca con intenciones hostiles. Aún necesito màs tiempo.
-Escaneo completado. Il frammento no està en esta ubicación, debemos intentarlo en alguna de las otras.
-Escaneo completado. He detectado el frammento dentro de este puesto de Avanzata. Nuestra única opción para recuperar el frammento es destruirlo.
-Estoy enviando una señal de emergencia al grupo della Milizia. Tal vez nos ayuden.
-Las navi milicianas estàn respondiendo.
-¡Hemos recuperado el último frammento! Ademàs, he podido descargar una gran cantidad de comunicaciones Viriax durante el conflicto.\nTenemos mucho de que hablar cuando nos vayamos de este lugar.
-Estoy a salvo a bordo della nave Viriax. Deberías partir lo antes posible. Espera mi señal al otro lado.
-I Viriax estàn preparando sus armas. No tienen intención de dejarte ir. ¡Tienes que marcharte ya!
-*disturbi* ¿... por ahí? He*disturbi* una micropuerta para contactar contigo. *estàtica*... es el momento. He cifrado le coordinate *disturbi* ubicación. Deprisa...
-Estoy a bordo del Corazzata Viriax. No puedo redireccionar la puerta estando a bordo de esta nave. Habrà que destruirlo\npara que yo pueda posicionarme correctamente.
-Estoy a salvo a bordo, aunque solo sea por un momento. Me estoy transfiriendo al pañol de armas de apoyo. Es una pena,\npero solo puedo desviar la puerta desde dentro. Tendràs que dispararme al centro de la anomalía.
-Me he transferido al pañol de armas. Acércate a la puerta e iniciaré el lanzamiento. Non preoccuparti.\nMi Reliquiario es bastante fuerte. No me haràs daño.
-Disparando pañol de armas de apoyo. Cambiando a comunicación externa.
-He alcanzado el punto central de la puerta. Me llevarà muy poco tiempo redireccionar los extremos de la anomalía.\nLos Viriax aún estàn usando la puerta. Tendràs que contenerlos un poco màs.
-Il redireccionamiento ya està casi completado. Cuando ocurra, también me transportaré al nuevo extremo. Esa serà mi despedida.
-¿Cómo va todo, trotamundos?
+Il chip di identificazione è stato recuperato.
+Penso che dovresti sapere che un individuo di nome Sandar si sta avvicinando a noi a grande velocità.
+Che strano. Ho rilevato una serie di esplosioni all'interno della struttura.
+Ci avviciniamo alle coordinate. Sto rilevando una grande nave con un pesante armamento balistico.
+Ci stiamo avvicinando a una nave molto grande. Potrebbe soddisfare i requisiti di Zenya.
+Forse rileverò un altro frammento del mio reliquiario nel prossimo sistema. Potrei aver escogitato un modo per aumentare il mio raggio di scansione.
+Ho rilevato una piccola nave che lascia la struttura.
+Sembra che la nave mercantile abbia un frammento del Reliquiario. Forse dovremmo metterci in contatto.
+Il frammento è stato trasferito a bordo in modo sicuro.
+I Viriax stanno uscendo da anomalie simili a quella rilevata in precedenza.
+Ho rilevato la posizione dell'ultimo pezzo, ma ci sono... complicazioni.
+La Milizia sembra stia aprendo un Portale Iperluce in questa posizione. Forse possiamo aggirare il portale.
+Se hai ragione, proverò ad aprire il portale ora.
+Il portale si è aperto.
+Sto cercando di individuare l'ultimo frammento del reliquiario in questo sistema. Tuttavia, l'interferenza del sottospazio che interrompe i gateway \nsta avendo un effetto simile sulla stabilità mie scansioni.
+Una nave Viriax di tipo Corazzata si sta avvicinando. Le tue armi non sono pronte.
+Posso tradurre parte della lingua Viriax sulla base di vecchi record. Tuttavia, dovrò aspettare. \nLa nave Viriax sta preparando le armi.
+Ho isolato tre possibili posizioni in cui ci può essere il frammento. Dovremo avvicinarci a ciascuno punto per eseguire una scansione di precisione.
+Ci stiamo avvicinando a una delle possibili posizioni. Sembra essere un avamposto Virzax di qualche tipo.
+Ci vorrà del tempo per completare una scansione di precisione.
+La nave Viriax ci ha visto e si avvicina con intenzioni ostili. Ho bisogno di più tempo.
+Scansione completata. Il frammento non è in questa posizione, dobbiamo provare uno degli altri.
+Scansione completata. Ho rilevato il frammento all'interno di questo Avamposto. La nostra unica opzione per recuperare il frammento è distruggerlo.
+Sto inviando un segnale di emergenza alla Milizia. Forse ci aiuteranno.
+Le navi della Milizia stanno rispondendo.
+Abbiamo recuperato l'ultimo frammento! Inoltre, sono riuscito a scaricare molte comunicazioni Viriax durante il conflitto. \nAbbiamo  molto di cui discutere quando lasceremo questo posto.
+Sono al sicuro a bordo della nave Viriax. Dovresti partire il prima possibile. Aspetta il mio segnale dall'altra parte.
+I Viriax stanno preparando le loro armi. Non hanno intenzione di lasciarti andare. Devi andartene adesso!
+*disturbi* ...ci sei? Ho * disturbi * ho un micro-gate per contattarti. *statico* ...è il momento. Ho crittografato le cordinate della posizione dei disturbi. Sbrigati...
+Sono a bordo della corazzata Viriax. Non riesco a reindirizzare la porta mentre sono a bordo di questa nave. Dovrà essere distrutta \nin modo che io possa posizionalo correttamente.
+Per il momento sono al sicuro a della nave. Sto andando al ponte delle armi secondarie. Purtroppo, \nnon posso solo deviare il portale dall'interno. Dovrai spararmi al centro dell'anomalia.
+Sono al ponte delle armi secondarie. Avvicinati al portale e mi sparerò fuori. Non preoccuparti. \nIl mio Reliquiario è abbastanza resistente. Non mi farai del male.
+Sparo con le armi secondarie. Passare alle comunicazioni esterne.
+Ho raggiunto il centro del portale. Mi ci vorrà pochissimo tempo per reindirizzare l'anomalia. \nI Viriax stanno ancora usando il portale. Dovrai bloccarli ancora per un po'.
+Il reindirizzamento è quasi completo. Quando si verifica, verrò teletrasportato da un altra parte. Questo sarà il mio addio.
+Come va giramondo?
 Aaah, ¡carne fresca!
 Hmmm... Qué sabor.
 Tu cabeza serà un precioso trofeo en mi pared.

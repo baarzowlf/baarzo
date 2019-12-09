@@ -4063,7 +4063,7 @@ Sembra che Viriax stia usando Charon come base operativa. Abbiamo fatto abbastan
 Bene, non è una coincidenza? Abbiamo ricevuto un messaggio molto enigmatico. Non sono stato in grado di identificare la fonte \nche ci ha mandato queste coordinate insieme ad un avvertimento che sembra molto attendibile. Di cosa si tratterà?
 Eccoli che arrivano! Spero che tu sappia quello che fai!
 La porta si sta chiudendo, ma dobbiamo ancora occuparci del resto delle navi. Non abbiamo ancora finito!
-Se ne sono andati. Che battaglia! Beh, non posso dire che non sia stato interessante. Cerca di evitare i guai \n d'ora in poi. E chiamami per un drink qualche volta.
+Se ne sono andati. Che battaglia! Beh, non posso dire che non sia stato interessante. Cerca di evitare i guai \nd'ora in poi. E chiamami per un drink qualche volta.
 Sistemi in condizioni critiche!
 Dannazione, ci stanno sparando qui!
 obiettivo eliminato.
@@ -4136,12 +4136,12 @@ L'hai trovato. Eccellente.
 L'analisi vocale indica che questo individuo è incline all'inganno... Scusa, era ovvio, no?
 Ci stiamo avvicinando al Monastero. Dovremo avvicinarci per sparare la sonda Stealth.
 La sonda stealth è stata lanciata.
-Il meccanismo di infiltrazione è attivato all'interno del monastero. Questa missione mi rende... nervoso.
-Debo advertirte... Las navi della zona han iniciado un escaneo profundo de esta nave. Temo que el chip de identificación\nno resista su escrutinio.
-Las navi dei Figli della Luce estàn activando sus sistemi de armas. No detecto ninguna señal del mech de infiltración...\nTendremos que defendernos.
-¡Se acercan màs navi dei Figli della Luce!
-Il mech de infiltración se ha lanzado desde la instalación... ¡Tenemos que recuperarlo lo antes posible e abandonar la zona!\nSe acercan màs navi dei Figli della Luce.
-Il mech està a bordo... ¡Hay que partir de inmediato!
+Il Mech di infiltrazione è attivato all'interno del monastero. Questa missione mi rende... nervoso.
+Ti avviso che... Le navi della zona hanno avviato una scansione profonda per questa nave. Temo che il chip di identificazione \nnon resista al suo controllo.
+Le Navi dei Figli della Luce stanno attivando il loro sistema di attacco. Non rilevo alcun segno del meccanismo di infiltrazione... \nDovremo difenderci.
+Le Navi dei Figli della Luce si avvicinano!
+Il Mech di infiltrazione è stato lanciato dalla struttura... Dobbiamo recuperarlo il prima possibile e lasciare l'area! \ nLe Navi dei Figli della Luce si stanno avvicinando.
+Il Mechanoid è a bordo - partiamo immediatamente!
 La información de Juno era correcta. Detecto un frammento dentro de la stazione de Hedonville.
 Nos estamos acercando al lugar de la anomalía espacial, que ya no està presente. Todavía se\nestà emitiendo la señal de emergencia codificada.
 Nos estamos acercando a la instalación que mencionó Trag. Detecto cantidades residuales de Hexxite en los alrededores,\naunque muchas de las navi estàn protegidas contro los escaneos.

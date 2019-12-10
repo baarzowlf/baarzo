@@ -4248,56 +4248,56 @@ Arrivano in molti e non sembrano avere voglia di parlare. Preparati!
 OK. Penso fosse l'ultimo. Vedo che combatti bene!
 Sembra che ora potresti farcela. Incontriamoci nello stesso posto e muoviamoci.
 C'è una raffineria, dovremo perforare quegli scudi prima di poterla danneggiare realmente.
-¡Cuidado con esas torrette! Esto serà mucho màs fàcil si les damos un poco de caña.
-¡Eso debería bastar! Ahora viene lo divertido. Reúnete conmigo en el bar e te daré los detalles.
-¡Se acerca una nave hostil!
-¡Aquí viene la caballería!
-¡Han llegado refuerzos!
-¿No ha habido suerte? Aquí tienes otro punto de ruta para probar. Tendràs que moverte rapido.
-¿Nada todavía? Hemos visto algo de acción, pero sin grandes resultados. Aquí tienes otro conjunto de coordinate.
-¿Tienes algo? Genial. Reúnete conmigo en la stazione e lo retomaremos desde ahí. Non preoccuparti. Hablaràn.
-¿Nada de nada? ¡Vaya! Bueno, no pierdas la esperanza. Me pondré en contacto contigo cuando tengamos màs información.
-Ahí està la instalación. Puedes ver los generadores a su alrededor. Tendremos que eliminar los tres para colapsar totalmente gli Scudi.
-Se acercan caccia stellari. Vigila tu espalda.
-¡Un generador menos!
-¡Ahí va uno dei generadores!
-¡Todos los generadores han sido desactivados! Gli Scudi se han colapsado.
-I transportes de tropas se estàn desplazando a sus posiciones.
-Eh, ¿qué es eso?
-Parece que Juno ha secuestrado un caza e està huyendo de la instalación. ¡Transportes de tropas, retrocedan!
-Hemos pasado un infierno para sacar esto adelante. No hagas ninguna estupidez.
-Maldita sea, Juno. ¡Que alguien intercepte esa nave!
-Oh, mierda. Genial. ¡Milicianos, retirada!
-En cuanto a ti... Bueno, no puedo culparte de esto, pero Juno no ha hecho las cosas màs fàciles.\nVolveremos a hablar pronto, e si ella se pone en contacto contigo... Oh, a quién quiero engañar. Addio, de momento.
-¿Te has puesto de su lado? Entonces, la muerte es demasiado buena para ti.
-¡Nave hostil, prepàrese para recibir disparos!
-Una muesca màs.
+Attenzione a quelle torrette! Sarà molto più facile se le mettiamo fuori uso.
+Dovrebbe bastare! Ora arriva il divertimento. Incontriamoci al bar e ti darò i dettagli.
+Sta arrivando una nave ostile!
+Ecco che arriva la cavalleria!
+I rinforzi sono arrivati!
+Sfortunato? Ecco un altro waypoint da provare. Dovrai muoverti velocemente.
+Ancora niente? Abbiamo visto qualcosa, ma senza grandi risultati. Ecco un'altra serie di coordinate.
+Ne hai uno? Grande. Incontriamoci alla stazione e lo prenderemo lì. Non ti preoccupare. Parleranno.
+Niente affatto? Ops! Bene, non perdere la speranza. Ti contatterò quando avremo ulteriori informazioni.
+Lì c'è la stazione. Guarda i generatori attorno ad esso. Dovremo eliminare tutti e tre per far abbassare completamente gli Scudi.
+Si stanno avvicinando caccia interstellari. Guardati le spalle.
+Un generatore in meno!
+Ecco uno dei generatori!
+Tutti i generatori sono stati disattivati! Gli Scudi sono andati.
+Le navi da trasporto truppe si stanno mettendo in posizione.
+Ehi, che cos'è?
+Sembra che Juno abbia dirottato un caccia e stia fuggendo dalla struttura. Trasporto truppe, arretrate!
+Abbiamo attraversato l'inferno per arrivare fino a qui. Non fare cazzate.
+Che tu sia maledetta, Juno. Qualcuno intercetti quella nave!
+Bene, cazzo. Perfetto così! Forze della milizia, ritiratevi!
+Quanto a te ... Beh, non posso biasimarti per questo, ma Juno non ha reso le cose più facili. \nCi risentiremo presto, e se si dovesse mettere in contatto con te... Oh, chi voglio prendere in giro. Addio, per ora.
+Ti sei schierato con loro? Quindi la morte è troppo buona per te.
+Nave ostile, preparsi al fuoco!
+Ancora una tacca.
 Nooo! *disturbi*
-¡Recibiendo daños graves!
-Eh, sobri. Me alegro de verte. Ojalà tuviéramos tiempo para una reunión ahora, pero creo que tendremos que dejarlo para otra ocasión.
-¡Bueno, Zenya! Te agradezco la distracción, es genial estar en cabina de nuevo.
-Bueno, merodear por aquí no es la mejor idea del mundo, como que mejor me voy despidiendo.
-Perdón por marcharme, gente, pero ya he tenido suficientes habitaciones oscuras e bombillas\ndesnudas. Nos vemos.
-Perdona que te abandonase, sobri, pero eso de cambiar una celda por otra no sonaba\ndemasiado bien. He encontrado un sitio tranquilo donde podemos hablar. Reúnete conmigo e no llames mucho la atención.
-Bene, me alegro de verte, sobri. Me alegro de haber salido de esa ratonera. Conozco un sitio tranquilo\ndonde podemos hablar. Reúnete conmigo allí.
-Oye, tenemos que hablar, e cuanto antes. Mejor si es en persona. Te envío la ubicación, a ver si te puedes acercar pronto.
-Maldita sea, fijo que te has metido en líos. Por suerte, también has escapado de ellos, así que vamos a celebrarlo.\nVenga, pàsate por aquí, yo invito.
-Ok, chicos, ¡a por ellos!
-Deberías dejar de meterte en nuestros asuntos...
-Te veré en el infierno.
-Tengo que escapar de este embrollo.
-Estoy esperando.
-Vamos ahora, ¿vale?
-Vamos a buscar puntos débiles.
-Mi Rakova necesita carne fresca.
-Eso no es muy... recomendable.
-Hay un momento en el que debemos esperar, ya nos ocuparemos de la venganza.
-Eso es imprudente.
-I aniquilaremos.
-Este es mío.
-Morderàn el polvo.
-¡No!*estertor*
-¡Me han dado!
+Subire gravi danni!
+Ehi, ragazzino. Sono contento di vederti. Vorrei che avessimo tempo per un incontro ora, ma penso che dovremo rimandarlo ad un'altra volta.
+Bene, Zenya! Ho apprezzato il diversivo, è bello essere di nuovo in cabina.
+Beh, restare qui non è la migliore idea del mondo, è meglio dirsi addio.
+Mi dispiace andarmene, gente, ma ho avuto abbastanza giornate storte. A presto.
+Mi dispiace abbandonarti, ragazzino, ma scambiare una cella con un'altra \nnon mi sembrava una buona idea. Ho trovato un posto tranquillo dove poter parlare. Incontriamoci lì e non farti seguire.
+Bene, felice di vederti, ragazzino. Sono contento di essere uscito da quella trappola per topi. Conosco un posto tranquillo dove possiamo parlare. Incontriamoci lì.
+Ehi, dobbiamo parlare il prima possibile. Meglio se di persona. Ti mando la posizione, vedi se riesci ad arrivare velocemente.
+Accidenti, ragazzo. Sicuramente ti piace metterti nei guai. Fortuna per te, che ne sei uscito. Sembra che dobbiamo festeggiare. \nPerché non vieni. offro io.
+Va bene ragazzi, prendeteli!
+Dovresti smettere di ficcare il naso nei nostri affari ...
+Ti vedrò all'inferno.
+Devo uscire da questo casino.
+Sto aspettando.
+Andiamocene adesso, ok?
+Cerchiamo punti deboli.
+La mia Rakova ha bisogno di carne fresca.
+Non è molto... raccomandabile.
+Al momento dovremmo aspettare - in seguito cercheremo vendetta.
+Questo è imprudente.
+Li abbatteremo.
+Questo è mio.
+Mangieranno la polvere.
+No! *rantolo*
+Sto andando giù!
 Sabía que tenías mala suerte.
 ¡Ska-vella!
 No dejaré que este insulto quede en nada.

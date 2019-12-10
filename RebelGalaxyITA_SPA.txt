@@ -4298,72 +4298,72 @@ Questo è mio.
 Mangieranno la polvere.
 No! *rantolo*
 Sto andando giù!
-Sabía que tenías mala suerte.
-¡Ska-vella!
-No dejaré que este insulto quede en nada.
-Pagaràn por esto.
-Mi Rakova està dañada.
-Retrocediendo.
-Debo retirarme.
-Saborea la noche.
-La muerte nos alcanza a todos.
-Abraza el frío.
-Anda, nos preguntàbamos cuàndo aparecerías por este sistema. Puedes llamarme Meathook. Tengo una propuesta que hacerte.\nVen a verme si no te importa ensuciarte las manos un poco.
-Este es el material. Llévalo de vuelta a la stazione, ¿entendido?
-Si quieres ganar algo de dinero, yo tengo algún trabajo.\nPàsate cuando puedas.
-¡Los della Milizia estàn por todas partes! Tienes que cargàrtelos antes de atracar.\n¡No dejes que escape ni uno solo o todo se irà al cuerno!
-Esto debería valer. Ya puedes atracar e dejar la antimateria. Buen trabajo, collega.
-Grazie por la ayuda. Te estàs haciendo un nombre. Estaremos en contacto.
-¿A que te gustaría ver que nuestro duro trabajo merece la pena?\nEstamos preparando algo grande. Vamos, ven e echa un vistazo.
-¡Me alegro de que pudieras unirte a nosotros! ¿Ves esos generadores de Scudi? Lo primero es lo primero, tenemos que cargàrnoslos.
-¡Los generadores estàn destrozados! Veamos qué puede hacer esta preciosidad. ¡Aleja a esos bombarderos de nosotros!
-¡Una que va a pique!
-¡Salgamos ràpidamente!
-Hay que ver, limpio como una patena. Grazie por la ayuda, ya te estamos enviando el dinero.\n¡No te lo gastes todo en el mismo sitio!
-Hola, trotamundos. Soy Cofax. Dicen que gozas de cierta fama en determinados círculos. Creo que tenemos mucho de lo que hablar.\nVen a verme cuando creas que es el momento.
-Ahí està. Tardaré un momento en prepararla para volar. Sus viejos motores estàn para el arrastre.
-Parece ser que una patrulla nos ha visto. No es un gran problema, pero debemos acabar con ellos antes de que pidan refuerzos.
-Sanseacabó.
-¡Muy bien, los motores estàn encendidos! Coloquémonos en posición de escolta e larguémonos de aquí.
-De momento, la cosa va muy bien. Mantengamos los dedos cruzados.
-Mierda, ¡nos han descubierto! Parecen ser carroñeros Murath. ¡Acabemos con ellos!
-¡Luchas muy bien, trotamundos! Vuelve a la posición de escolta e acabemos con esto.
-¡Muy bien! Por fin estamos a salvo. Tenemos que repetirlo en el futuro. Pilotas de lujo, la verdad. Ah, e no olvides lo que te he dicho sobre el Gilda.
-Oye, ¿te interesa otro trabajillo? Tengo algo que podría gustarte. Conozco un sitio en el que podríamos reunirnos.\nTe estaré esperando, por si acaso te animas.
-Ok, ¡vamos allà! ¿Ves todos esos contenedores pesados? Son nuestros objetivos. Parece que hay\ntorretas parasitarias en el perímetro. Como no acabemos con ellas antes de nada, nos van a ralentizar.\nVoy a derribar esos caccia stellari tan rapido como pueda. ¡En marcha!
-Hemos destruido a la mitad. ¡Acabemos con el resto!
-I Red Devil se aproximan a nuestra posición. Parecen ser destructores.
-Il alijo de armas ha sido destruido. ¡Salgamos de aquí! No tiene sentido esperar a que llegue màs compañía.\nLo has hecho bien. Nuestra relación està resultando ser bastante beneficiosa.
-Grazie de nuevo. Pensaré en ti si me llega algún otro trabajo interesante. ¡Hasta pronto!
-¡Cuànto tiempo! Si te apuntas, tengo otro trabajito para ti. Ya sabes cómo va esto.\nReúnete conmigo si te interesa.
-Ah, has venido. Me he traído a unos amigos para que nos ayuden. ¿Ves eso, ahí delante?\nLa buena noticia es que està totalmente inerte. No hay ni rastro de energía. Aprovechémoslo.
-Ya estoy recibiendo señales de vida. Estàn arrancando esa cosa. ¡Destruye tantas torrette\ncomo puedas antes de que estén activas!
-Le torrette estàn activas. Es cuestión de tiempo que empiece a moverse.
-¡El Corazzata està completamente activo!
-Estàn pidiendo refuerzos. ¡Tened cuidado!
-Parece que vamos a recibir un poco de ayuda. ¡Ha llegado una fregata della Milizia!
-¡Ahí va! Otra menos.
-Acabemos con el resto de esta escoria.
-Buen trabajo. Saquea todo lo que puedas de esos contenedores. A primera vista, parece\nque nos encontraremos cosas muy interesantes. Como siempre, ha sido un placer. Cambio e corto.
-En marcha.
+Sapevo che eri sfortunato.
+Ska-vella!
+Non lascerò che questo insulto rimanga impunito.
+Pagheranno per questo.
+Il mio Rakova è danneggiato.
+Indietreggiare.
+Devo ritirarmi.
+Assapora la notte.
+La morte arriva per tutti noi.
+Abbraccia il freddo.
+Fianalmente, ci chiedevamo quando sarresti apparso per questo sistema. Puoi chiamarmi Meathook. Ho una proposta da farti. \n Vieni a trovarmi se non hai problemi a sporcarti un po' le mani.
+Questo è il materiale Riportalo alla stazione, capito?
+Se vuoi guadagnare dei soldi, ho del lavoro. \n Passa quando puoi.
+Quelli della Milizia sono ovunque. Devi liberarti di loro prima di attraccare. \n on lasciare che nessuno scappi, o l'intera operazione andrà in fumo!
+Questo dovrebbe bastare. Ora puoi attraccare e scaricare l'Antimateria. Ottimo lavoro, ragazzo.
+Grazie per l'aiuto. Ti stai facendo un nome. Ci rimetteremo in contatto.
+Quindi, come ti piacerebbe vedere il nostro duro lavoro ripagato? \nStiamo ottenendo qualcosa di grosso insieme. Vieni a dare un'occhiata.
+Sono contento che tu ti unisca a noi! Vedi quei generatori di Scudi? Per prima cosa dobbiamo eliminarli.
+I generatori sono andati! Vediamo cosa può fare questa bellezza. Tieni lontano quei bombardieri!
+Abbattuta!
+Muoviamoci ad uscire!
+Che ne dici di quello? Ripuliscilo come ti pare. Grazie per l'aiuto. Ti stiamo inviando i soldi. \nNon spendere tutto in un cazzate.
+Ciao giramondi. Sono Cofax. Pare che tu goda di una certa reputazione in certi ambienti. Penso che abbiamo molto di cui parlare. \nVieni a trovarmi quando vuoi.
+Eccolo! Ci vorrà un momento per prepararlo a volare. I suoi vecchi motori sono stati forgiati nell'inferno.
+Sembra che una pattuglia ci abbia visto. Non è un grosso problema, ma dobbiamo eliminarli prima che chiedano rinforzi.
+Ce l'ho.
+Bene, i motori sono accesi! Mettiti di scorta e usciamo di qui.
+Per ora, le cose stanno andando molto bene. Incrociamo le dita.
+Merda, ci hanno scoperto! Sembrano essere scavenger di Murath. Facciamoli fuori!
+Combatti molto bene, giramondi! Ritorna in posizione di scorta e finiamo la missione.
+Molto bene! Finalmente siamo al sicuro. Dobbiamo rifarlo in futuro. Sei un grande pilota, davvero. Oh, e non dimenticare cosa ti ho detto della Gilda.
+Ehi, ti interessa un altro lavoro? Ho qualcosa che ti potrebbe piacere. Conosco un posto dove potremmo incontrarci. \n ti aspetterò lì, nel caso tu ne abbia il coraggio.
+Bene, eccoci qua! Vedi tutti quei container pesanti? Quelli sono i nostri obiettivi. Sembra che ci siano \ndelle torrette sanguisuga attorno al perimetro. Ci rallenteranno se non li distruggiamo subito. \nIo vado ad abbattere questi caccia il più velocemente possibile. muoviamoci!
+Ne abbiamo distrutti metà. Finiamo il resto!
+I Red Devil si stanno avvicinando alla nostra posizione. Sembrano essere corazzate.
+Il deposito di di armi è stato distrutto. Usciamo di qui! Non ha senso aspettare che arrivino i rinforzi. \nTu hai fatto un ottimo lavoro. La nostra collaborazione si sta dimostrando profiqua.
+Grazie ancora. Ti penserò se avrò altri lavori interessanti. A presto!
+È da un po' che non ci sentiamo. Ho ancora un po' di lavoro se sei pronto. Sai come funziona. \nContattami se sei interessato.
+Ah, sei arrivato. Ho portato alcuni amici per aiutarci. Lo vedi, proprio lì? \nLa buona notizia è che è totalmente inerte. Non c'è traccia di energia. Approfittiamone subito.
+Sto captando segni di vita. Quella cosa si sta attivando. Distruggi tutte le torrette che puoi prima che siano attivino!
+Le torrette sono attive. È questione di tempo prima che inizino a sparare.
+La Corazzata è completamente attiva!
+Stanno chiedendo rinforzi. Stai attento!
+Sembra che riceveremo un aiuto. È arrivata una fregata della Milizia!
+Ecco qua! Un altro in meno.
+Finiamo il resto di questa feccia.
+Bel lavoro. Sentiti libero di recuperare ciò che puoi da questi container. A prima vista sembra che ci siano cose molto interessanti lì dentro. \nCome sempre, è stato un piacere. Passo e chiudo.
+Diamoci dentro.
 In formazione.
-Pongamos esto patas arriba.
+Facciamo un casino.
 Armi cariche!
 Forza, facciamolo.
 Penso che sia meglio provarci un'altra volta.
 Leviamoci subito da qui.
 Giusto per la cronaca... È stata una pessima idea.
-Tú sigue tocàndome las narices, a ver qué pasa.
+Prova a farmi incazzare, amico.
 Lo tengo sotto tiro.
 Merda, merda, merda! *disturbi*
 Oooh, merda! *disturbi*
 Aaah! *suoni incomprensibili*
 Sto per espellermi!
-Demasiado justo para mi gusto.
+Questo è troppo vicino per i miei gusti.
 Dannazione.
 Mi stanno facendo male qui!
 Maledizione, mi stanno sparando!
-¡No te me vengas abajo, montón de chatarra!
+Dai, tieni insieme il tuo Rustbucket!
 Mi ritiro.
 Oh, sì!
 Ahahahahah!
@@ -4376,44 +4376,44 @@ Aaah! Carne fresca!
 Decisamente saporita!
 È ora di friggere!
 Ahahahahah!
-¡Te has metido en la pelea equivocada!
+Hai scelto la battaglia sbagliata!
 Sei mio!
 Nooo! *suoni incomprensibili*
-Todavía no he dicho mi última palabra! *suoni incomprensibili*
-¡Esto no se ha aca...! *disturbi*
+Non ho ancora detto la mia ultima parola! *suoni incomprensibili*
+Questo non è finito...! *disturbi*
 Non è possibile!
-¡En otra ocasión serà, ricura!
-¡Esto se està poniendo demasiado feo para mí!
-Parece que nuestra triquiñuela ha funcionado... Acabad con ellos.
-Parece que han picado. Eliminémoslos.
-Todo preparado para partir.
-Cuando me digas.
-Montemos una buena fiesta.
-Sì. Aquí estoy, a la espera.
-Esto podría quedarnos un poco grande.
-No sé yo si esto serà muy buena idea.
-Oye, sabes lo que estàs haciendo... ¿no?
-Vamos a darles su merecido.
-A este me lo pido.
-Es hora de volar hacia las estrellas.
+Un'altra volta, nave!
+Qui si sta facendo troppo dura per me!
+Sembra che il nostro piccolo trucco abbia funzionato... Finiscili.
+Sembra che ci abbiano puntato. Eliminiamoli.
+Tutto pronto per partire.
+Appena me lo dici.
+Andiamo a fargliela vedere.
+Sì. Eccomi! Ti aspetto.
+Questo potrebbe essere un po' fuori dalla nostra portata.
+Non so se questa sarà una buona idea.
+Ehi, sai cosa stai facendo ... vero?
+Facciamogliela pagare!
+Questo è tutto mio.
+È tempo di puntare alle stelle, ragazzo.
 Devo espellermi!
-¡Mierda! Tendré que ir a lamerme las heridas.
-¡Oh, pero qué maravilla!
-Me estàn dando una buena paliza.
-No, no. No se van a salir con la suya.
-Mierda, fallan todos los sistemi.
-Debo alejarme de este combate.
-No sabían con quién se estaban metiendo.
+Merda! Devrò leccarmi un po' di ferite.
+Oh, ma che meraviglia!
+Me le stanno dando di santa ragione.
+No, no! Non ce la faranno.
+Merda, tutti i sistemi sono saltati.
+Devo allontanarmi da questo scontro.
+Non sapevano contro chi si stavano mettendo.
 Geniale!
 Eliminato.
 Un nemico in meno.
 Felice di vederti.
-Ajà. ¡Seràs un trofeo de guerra maravilloso!
-Es imposible que te salgas con la tuya, so idiota.
-¡Tengo la victoria al alcance de la mano!
-Es una pena tener que dañar una nave tan bonita.
-¡Es nuestro momento de grandeza!
-Si quieres, puedes deshacerte del carico e ahorrarme la molestia.
+Ahah. Sarai un meraviglioso trofeo di guerra!
+Non puoi sperare di farcela, idiota.
+Ho la vittoria a portata di mano!
+È un peccato dover danneggiare una nave così bella.
+È il nostro momento di gloria!
+Sentiti libero di scaricare il carico ora e risparmiami il disturbo.
 All'attacco!
 No, non puoi *suoni incomprensibili*
 Non è così che *suoni incomprensibili*

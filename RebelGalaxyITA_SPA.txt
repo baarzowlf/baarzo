@@ -4419,14 +4419,14 @@ No, non puoi *suoni incomprensibili*
 Non è così che *suoni incomprensibili*
 Via! Via!
 Inaccettabile!
-¡Tú e tu asquerosa piel de cerdo...!
+Tu e la tua disgustosa pelle da maiale...!
 Sfortunatamente, dobbiamo andare!
 Non è finita!
-¿Vamos a quedarnos sentados sin hacer nada?
-Me pican las garras. Tengo que clavàrselas a algo.
+Andiamo solo a trastullarci?
+Mi prudono gli artigli. Devo attaccarli a qualcosa.
 Pronti a partire?
-Creo que esto te queda demasiado grande.
-A veces hay que esperar al momento adecuado. Y este no lo es.
+Penso che questo sia più di grande di quanto tu possa affrontare.
+A volte devi aspettare il momento giusto. E questo non lo è.
 Facciamoli sanguinare.
 È ora di morire.
 Merda! Devo espellermi! *suoni incomprensibili*
@@ -4506,9 +4506,9 @@ Moderatamente Danneggiato
 Leggermente Danneggiato
 Integro
 Asteroide
-Cargamento
-Contenedor de carga
-Contenedor de carga especial
+carico
+Contenitore di carico
+Container speciale
 Contenedor de Orzu (destruir)
 Contenedor de carga fascinante
 Caja de artillería

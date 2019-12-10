@@ -2186,7 +2186,7 @@ Sparisci!
 Sono un po' incasinato qui... avrei bisogno di una mano!
 Non ho nulla da dirti.
 Sei polvere spaziale. [TERMINA TRASMISSIONE]
-COnsegna il carico, o assaggia il vuoto!
+Consegna il carico, o assaggia il vuoto!
 Tutto bene... grazie lo stesso.
 Grazie mille. Non lo dimenticherò.
 Non abbiamo nient'altro da dirci.
@@ -3459,9 +3459,9 @@ ELENCO TAGLIE SCARICATO
 DATABASE FINANZIARIO INTERCETTATO
 [DATABASE FINANZIARIO] |FN16423|\n\nLa siguiente base de datos contiene información financiera actual sobre productos en las estaciones e conocimientos de embarque. La información sobre los precios se considera actualizada a fecha de 1.567.382.46. Información confidencial.
 MESSAGGIO INTERCETTATO
-[TRASMISSIONE PARZIALE]... no negociable. Teníamos un acuerdo e espero que lo cumplas. La mercancía en cuestión se encuentra en le coordinate facilitadas, cerca de [LOCATION]. La recogida depende de ti, e esperamos poder transferir los fondos inmediatamente... [FINE TRASMISSIONE]
-[TRASMISSIONE PARZIALE]... la entrega està hecha. Haz el intercambio en le coordinate cerca de [LOCATION]. Ojo con los problemas en el barrio... [FINE TRASMISSIONE]
-[TRASMISSIONE PARZIALE]... chivatazo sobre una oportunidad minera espectacular cerca de [LOCATION]. Sin embargo, tendràs que moverte deprisa, ya que los oportunistas no andaràn muy lejos... [FINE TRASMISSIONE]
+[TRASMISSIONE PARZIALE] ...non negoziabile. Avevamo un accordo e spero che tu lo mantenga. La merce in questione si trova nelle coordinate fornite, vicino a [LOCATION]. Qaunto raccogli dipende da te e speriamo che tu ci trasferisca immediatamente il pagamento... [FINE TRASMISSIONE]
+[TRASMISSIONE PARZIALE] ...la consegna è pronta. Effettua lo scambio alle coordinate vicino a [LOCATION]. Stai fuori dai guai nel quartiere ... [FINE TRASMISSIONE]
+[TRASMISSIONE PARZIALE] ...un consiglio su una spettacolare opportunità di trovare minerali vicino a [LOCATION]. Ti consigliamo di muoverti velocemente, poiché gli opportunisti non saranno molto lontani... [TRASMISSIONE FINE]
 Gigante Rossa
 Un corpo celeste
 Gigante Blu
@@ -3598,7 +3598,7 @@ Miniera Murath
 Struttura Mineraria
 Struttura
 Prototipo Antimateria
-BAse Operativa Avanzata
+Base Operativa Avanzata
 Ammiraglia Red Devil
 Deposito di Munizioni Red Devil
 Bombardiere Avanzato Red Devil
@@ -4507,11 +4507,11 @@ Leggermente Danneggiato
 Integro
 Asteroide
 carico
-Contenitore di carico
+Container
 Container speciale
-Contenedor de Orzu (destruir)
-Contenedor de carga fascinante
-Caja de artillería
+Contenitore di Orzu (distruggi)
+Container di preziosi
+Deposito delle munizioni
 Ghiaccio
 Mina
 Mina di Prossimità
@@ -4525,73 +4525,73 @@ diminuisce del
 Frammento del Reliquiario
 Minerali
 Acqua
-Escondrijo de armas
-Contenedor al traste
-Mercenario ya empleado
-I Lucifer Red Devil estaràn indefensos durante aproximadamente 45 secondi.
-¡Sistemas reparados! ¡Los Lucifer Red Devil estàn armando torpedos!
-Mata a [BOUNTYNAME_LAST] rapido, ¡antes de que lleguen los refuerzos!
-¡Comandante eliminado! ¡Ahora los desertores estàn de tu lado!
-Un comerciante se ha vuelto hostil
-Un diplomàtico se ha vuelto hostil
-¡Contrabando detectado! Mata a los traficantes.
-¡El cronorrelé està inhabilitando a [BOUNTYNAME]!
-¡Relé destruido! ¡[BOUNTYNAME] es libre!
-Misión fallida. Il comerciante [BOUNTYNAME_LAST] pudo descargar los tramos prohibidos.
-¡Entidad biológica detectada!
-Una nave principal miliciana ha sido destruida. ¡Cuidado con los desertores!
-Il Punitore IIx està desactivado. Protégelo hasta que se conecte.
-¡Sistemas reparados! ¡El Punitore IIx està preparando las armas!
-¡Contrabando detectado! Elimina a todos los desertores.
-¡Ahí viene la caballería!
-¡Capitàn P. J. Krunk detectado! ¡Revienta esta nave e atràpalo!
-¡[BOUNTYNAME] està sin defensa!
-¡Sistemas reparados! ¡[BOUNTYNAME] està preparando las armas!
-Il Corazzata Koriano estarà indefenso durante aproximadamente 60 secondi.
-¡Sistemas reparados! ¡El Corazzata Koriano està preparando las armas!
-La dínamo de estasis falla en el grupo 1. Prepàrate para la resistencia.
-La dínamo de estasis falla en el grupo 2. Prepàrate para la resistencia.
-La dínamo de estasis falla en el grupo 3. Prepàrate para la resistencia.
-Destruir emboscadores
-Destruye a los emboscadores.
-Utilizza tu Scanner e inspecciona a todos los comerciantes.
-Tras destruir el escondrijo de Orzu, te atacaron unos emboscadores dei DoubleJack. ¡Liquídalos!
-Utilizza tus escàneres de pulso a corta distancia para detectar un frammento dentro de la Tetraedrite.
-Usar escaneo con pulsos para detectar frammento
-Destruir asteroide para liberar frammento
-La nave de Zenya ha sido destruida.
-Zenya se ha vuelto hostil.
-¡Huye della zona!
-Has salido della zona de la misión.
-Rufus se ha vuelto hostil.
-La Milizia se ha vuelto hostil.
-¡Huye de la flota Viriax!
-La stazione ha sido destruida.
-Sal del Sistema Caronte.
-Destruye el Corazzata.
-La nave de Juster ha sido destruida.
-Juste se ha vuelto hostil.
-Trell està a bordo.
-Trell ha abandonado el pañol secundario.
-Acércate al monasterio.
-Han disparado a un mech de infiltración.
-Mech desplegado en el monasterio
-Defiéndete hasta que vuelva el mech.
-Tractor del mecanoide
+Deposito delle armi
+Contenitore rovinato
+Mercenario già impiegato
+I Lucifer Red Devil saranno indifesi per circa 45 secondi.
+Sistemi riparati! I Lucifer Red Devil stanno preparando i siluri!
+Uccidi [BOUNTYNAME_LAST] velocemente, prima che arrivino i rinforzi!
+Comandante eliminato! Ora i disertori sono dalla tua parte!
+Un commerciante è diventato ostile
+Un diplomatico è diventato ostile
+Merci di contrabbando rilevate! Uccidi i trafficanti.
+[BOUNTYNAME] è stato disabilitato dal Chrono Relay!
+Chrono Relay distrutto! [BOUNTYNAME] è libero!
+Missione fallita! Il commerciante [BOUNTYNAME_LAST] è riuscito a consegnare i piani segreti.
+Rilevata entità biologica!
+Una nave principale della milizia è stata distrutta. Attenzione ai disertori!
+Il Punitore IIx è fuori uso. Proteggilo fino a quando non si riattiva.
+Sistemi riparati! Il Punitore IIx sta preparando le armi!
+Merci di contrabbando rilevate! Elimina tutti i disertori.
+Arriva la cavalleria!
+Rilevato il Capitano PJ Krunk! Fai muovere questa nave e prendilo!
+[BOUNTYNAME] è indifeso!
+Sistemi riparati! [BOUNTYNAME] sta preparando le armi!
+La Corazzata Koriano sarà indifesa per circa 60 secondi.
+Sistemi riparati! La Corazzata Koriano sta preparando le armi!
+La dinamo di stasi ha un malfunzionamento nel gruppo 1. Preparati a resistere.
+La dinamo di stasi ha un malfunzionamento nel gruppo 2. Preparati a resistere.
+La dinamo di stasi ha un malfunzionamento nel gruppo 3. Preparati a resistere.
+Sventa l'imboscata.
+Distruggi chi ci ha teso l'imboscata.
+Usa il tuo scanner e ispeziona tutti i commercianti.
+Dopo aver distrutto il nascondiglio di Orzu, qualche DoubleJack ti ha teso un imboscata. Falli fuori!
+Usa i tuoi scanner a impulsi a distanza ravvicinata per rilevare un frammento all'interno del Tetraedrite.
+Utilizzare la scansione ad impulsi per rilevare il frammento
+Distruggi l'asteroide per liberare il frammento
+La nave di Zenya è stata distrutta.
+Zenya è diventato ostile.
+Scappa dalla zona!
+Hai lasciato l'area della missione.
+Rufus è diventato ostile.
+La Milizia è diventata ostile.
+Scappa dalla flotta Viriax!
+La stazione è stata distrutta.
+Esci dal sistema Caronte.
+Distruggi la Corazzata.
+La nave di Juster è stata distrutta.
+Juste è diventato ostile.
+Trell è a bordo.
+Trell è uscito dall'alloggiamento secondario
+Avvicinati al monastero.
+Hanno sparato a un mech di infiltrazione.
+Mech schierato nel monastero.
+Difenditi fino al ritorno del mech.
+Trattore Meccanico
 Lascia l'area!
 Lascia l'area.
-Il prototipo Red Devil ha sido destruido.
-Il prototipo Red Devil se ha vuelto hostil.
-La tartana de batalla se ha vuelto hostil.
-La nave de Cofax ha sido destruida.
-Cofax se ha vuelto hostil.
-Mantén a [BOUNTYNAME] con vida hasta que llegue el jefe Wiggun. Destruye a los otros objetivos.
-Misión fallida. Il jefe Wiggun quería enfrentarse personalmente a [BOUNTYNAME].
-Il jefe Wiggun ha llegado e se ha enfrentado heroicamente al pirata [BOUNTYNAME].
-Te invitamos a que te vayas. Grazie.
-Il cliente se ha vuelto hostil.
-¡Las defensas del puesto de Avanzata estaràn desconectadas durante dos minutos!
-¡Las defensas del puesto de Avanzata ya estàn conectadas! Defiende durante un minuto màs.
+Il prototipo di Red Devil è stato distrutto.
+Il prototipo di Red Devil è diventato ostile.
+Il rottame da battaglia è diventato ostile.
+La nave di Cofax è stata distrutta.
+Cofax è diventato ostile.
+Mantieni vivo [BOUNTYNAME] fino all'arrivo del capo Wiggun. Distruggi gli altri obiettivi.
+Missione fallita. Il capo Wiggum voleva affrontare personalmente [BOUNTYNAME].
+Il capo Wiggun è arrivato e ha affrontato eroicamente il pirata [BOUNTYNAME].
+Ti invitiamo ad andartene. Grazie.
+Il cliente è diventato ostile.
+Le difese dell'avamposto verranno disconnesse per due minuti!
+Le difese dell'avamposto si stanno collegando! Difendilo ancora per un minuto.
 (MINATORI)
 (MERCANTI)
 [Salvataggio

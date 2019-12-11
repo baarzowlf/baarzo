@@ -3013,22 +3013,22 @@ Invocazione di Murath
 Recupera l'Illuminato
 Ironclaw Illuminato
 Illuminato dell'Artiglio di ferro
-Un profeta dubbioso
-Un convoy Garra de Hierro Murath està transportando por [LOCATION] a un Iluminado dei Figli della Luce que ha sido secuestrado. Escanea la nave correcta e entrega a este dudoso profeta a las autoridades della Milizia de [STATION] a cambio de [REWARD].
-Casquería
-La cosecha de órganos
-La Cosechadora Koriana
-Objetivo prioritario: una Cosechadora de Órganos Koriano indefensa en [LOCATION]. Es posible que respondan las fuerzas korianas próximas. Las oportunidades de lucro estàn incluidas como parte de tu compensación.
-Superenjambre Koriano
-Superenjambre en [LOCATION]
-La novena configuración
-A Korian "Super Swarm" is forming not far from [LOCATION]. Militia strategists want it broken up now. If you've ever experienced this configuration, you'll know to prepare for a huge number of fighter-class foes. [REWARD] credits is authorized for this dangerous task.
-Se està formando un "superenjambre" Koriano no muy lejos de [LOCATION]. I estrategas della Milizia quieren destruirlo ya. Si ya conoces esta configuración, sabràs que debes prepararte para una gran cantidad de navi de combate enemigas. Se autorizan [REWARD] crediti por esta peligrosa tarea.
-¡Rescata al Capitano Krunk!
-I diplomàticos Red Devil han capturado al Capitano P. J. Krunk e lo estàn transportando a través de [LOCATION]. Destruye a los secuestradores e probablemente lo encuentres flotando en el espacio: este tipo puede sobrevivir a cualquier cosa. Tràelo de vuelta a [STATION] por [REWARD] crediti.
-Refuerzos del almirantazgo
-Refuerzos de [BOUNTYNAME_LAST]
-Almirante [BOUNTYNAME_LAST]
+discutibile profeta
+Un convoglio di artigli di ferro Murath sta trasportando un Illuminato dei Figli della Luce di [LOCATION] che è stato rapito. Individua la nave con l'obbiettivo e consegna questo discutibile profeta alle autorità della Milizia di [STATION] in cambio di [REWARD].
+Chiosco
+Il raccolto di organi
+Mietitrice di Korian
+Obiettivo prioritario: un mietitore Koriano indifeso in [LOCATION]. Le vicine forze Koriane potrebbero attaccare. Le opportunità di profitto nella missione sono incluse come parte del compenso.
+Super sciame Koriano
+Super sciame a [LOCATION]
+La nona configurazione
+Un Super sciame Korian si sta formando non lontano da [LOCATION]. Gli strateghi della Milizia vogliono che sia distrutto ora. Se hai già affrontato una missione simile, saprai che dovrai prepararti ad affrontare un numero enorme di caccia nemici. [REWARD] crediti sono assegnati per la realizzazione di per questo compito pericoloso.
+Uno sciame Korian si sta formando non lontano da [LOCATION]. Gli strateghi della Milizia vogliono che sia distrutto ora. Se hai già affrontato una missione simile, saprai che dovrai prepararti ad affrontare un numero enorme di caccia nemici. [REWARD] crediti sono assegnati per la realizzazione di per questo compito pericoloso.
+Salva il Capitano Krunk!
+I diplomatici del Red Devil hanno catturato il Capitano P.J. Krunk e lo stanno trasportando verso [LOCATION]. Se distruggi i rapitori probabilmente lo troverai fluttuare nello spazio: questo ragazzo può sopravvivere a qualsiasi cosa. Restituiscilo alla [STATION] per [REWARD] crediti.
+Rinforzi dell'Ammiragliato
+Rinforzi di [BOUNTYNAME_LAST]
+Ammiraglio [BOUNTYNAME_LAST]
 [BOUNTYNAME], almirante, necesita ayuda inmediata en su campaña. I Red Devil [HIM] amenazan. [HIS_CAP] pueden derrotar en cualquier momento. Viaja hasta [LOCATION] e ayúdale en la defensa de su posición.
 Embargo Red Devil
 8 toneladas de Omnium

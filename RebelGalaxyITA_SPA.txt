@@ -2948,52 +2948,52 @@ Reversenario
 Scorta il mercenario
 Scorta il Boss della Gilda
 A quanto pare, la Gilda dei Mercenari ha bisogno del nostro aiuto. [BOUNTYNAME], che guida la Gilda locale, richiede una scorta da una zona ostile alla stazione [STATION]. [HES_CAP] pagherà la tariffa della Gilda dei Mercenari più il 10%.
-Mineros de [STATION]
-Rocas enrarecidas
-la recompensa dei mineros
-I campos de asteroidi de [LOCATION] son ricos en minerales e oro. Nuestros chicos estàn allí extrayéndolos, pero a menudo se enfrentan a las agresiones korianas. Ayúdalos por [REWARD] crediti e plantéate reventar algunas rocas si parecen prometedoras...
-Recuperación discreta
-Secreto al traste
-Material de lectura
-Un distinguido hombre de negocios local se vio obligado a tirar por la borda algún carico, cuyo contenido era personal e no es asunto de nadie. Podemos facilitar coordinate cerca de [LOCATION], donde podràs recoger cinco unità di dicho carico. ¡La discreción es primordial! La esposa de este buen caballero jamàs deberà enterarse de esta misión.
-Comerciantes de [STATION]
-Emboscada inconveniente
-A toda mecha
-I comerciantes que se dirigen a [STATION] estàn siendo atacados por varias bandas pirati. Estàn llegando peticiones de ayuda inmediata cerca de [LOCATION]. No te distraigas con las interferencias dei pirati. Urge mantener la seguridad de nuestras rutas comerciales.
-Embargo Organico
-Evasión Koriana
-Una entrega horripilante
-Se hanno bisogno di urgentemente órganos humanos en [LOCATION]. Es demasiado urgente para conseguir la autorización pertinente, así que ten en cuenta que este carico se considerarà contrabando. Para màs inri, las fuerzas korianas, ansiosas de màs órganos humanos, seguramente intentaràn interceptar esta entrega. Este peligro garantiza una recompensa de [REWARD] crediti.
-Salva el astillero
-Defensa en dique seco
-Amenaza existencial
-La Dreadstar della Milizia supone una amenaza existencial para nuestros enemigos si podemos construir suficientes. Para tal fin, estamos construyendo una instalación de dique seco en el sector de [LOCATION]. No prevemos problemas, pero hemos perdido el contacto temporalmente con los guardias della Milizia e sería genial que alguien pudiese echar un vistazo en persona.
-Lucha por Gozu
-Mi Gozu en un pozu
-Una flota mercante està luchando contro una flota Viriax por la cara de Gozu, la cual se cree que actualmente està en una fregata di Missili Viriax. Necesitamos esta rareza en la stazione [STATION] e estamos dispuestos a pagar [REWARD] crediti por ella. Ten cuidado con los Viriax, sobre todo tras recuperar el carico.
-¡Rescata a [BOUNTYNAME] Jr.!
+Minatori della [STATION]
+Rocce rarefatte
+la ricompensa dei minatori
+I campi di asteroidi di [LOCATION] sono ricchi di minerali e oro. I nostri ragazzi li stanno estraendo, ma spesso devono affrontare le aggressioni coriane. Aiutali per [REWARD] crediti e prendi in considerazione di spaccare qualche roccia se ti sembra promettente...
+Recupero discreto
+Segreto svelato
+Materiale di lettura
+Un distinto uomo d'affari locale è stato costretto a scaricare del carico, il cui contenuto è personale e non di diminio pubblico. Siamo in grado di fornirti le coordinate vicino a [LOCATION], dove potrai recuperare cinque unità di questoo carico. La discrezione sara fondamentale! In nessun caso la moglie di questo raffinato gentiluomo dovrà venire a conoscenza di questa missione.
+[STATION] dei commercianti
+Agguato inopportuno
+Passata esplosione
+I commercianti che si dirigono verso [STATION] sono stati assaliti da varie bande di pirati. Stanno arrivando richieste di aiuto immediato da [LOCATION]. Non lasciarti distrarre dalle incursioni dei pirati: è fondamentale mantenere la sicurezza delle nostre rotte commerciali.
+Embargo biologico
+Evasione Koriana
+Una consegna orribile
+Servono urgentemente necessari organi umani a [LOCATION]. Richiedere un autorizzazione per il trasporto richiede troppo tempo, quindi tieni presente che questo carico sarà considerato di contrabbando. Ad aumentare il rischio c'è che le forze Korian, desiderose di altri organi umani, cercheranno sicuramente di intercettare questo carico. Affrontare tutti questi pericoli garantisce una ricompensa di [REWARD] crediti.
+Salva il cantiere
+Difesa del cantiere navale
+Grande minaccia
+Le Dreadstar della Milizia rappresentano una grande minaccia per i nostri nemici se riuscissimo a costruirne abbastanza. Per questo, stiamo costruendo una cantiere navale nel settore [LOCATION]. Non prevediamo problemi, ma abbiamo temporaneamente perso i contatti con le guardie della Milizia e sarebbe meglio se qualcuno potesse dare un'occhiata di persona.
+Combatti per Gozu
+Vai a prendere Gozu
+Una flotta di commercianti sta combattendo una flotta di Viriax su Faccia di Gozu, è sotto attacco da da una fregata missilistica Viriax. Abbiamo bisogno di questo carico rara alla stazione [STATION] e siamo disposti a pagare un premio di [REWARD] crediti per averlo. Fai attenzione alle forze Viriax soprattutto dopo aver recuperato il carico.
+Salva [BOUNTYNAME] Jr.!
 [BOUNTYNAME] Jr.: VIP
-Sénior Júnior
-Es la primera misión del alférez [BOUNTYNAME] Jr. e està en un aprieto, solo con unos pirati despiadados. Generalmente, esto no sería demasiado preocupante, pero es el hijo del almirante [BOUNTYNAME_LAST] Sr. Estamos bajo mucha presión para enviar a alguien a [LOCATION] para salvarlo.
-Vampiros del espacio
-Triple terror
-Corvette capturada
-Grandes noticias: hemos capturado una corbeta Chupasangre Viriax. Il problema es que tenemos que llevar esta nave a [LOCATION] para que la desmonten e la estudien, e todas las facciones de [SYSTEM] saldràn a detenernos. Tú tienes la nave de escolta màs potente disponible, pero la misión serà difícil.
-Defensa contro los Viriax
-Viriax en [LOCATION]
-Invasión Viriax
-Il comandante [BOUNTYNAME] se ha retirado a la stazione de [LOCATION] bajo un fuerte ataque de las fuerzas Viriax. Se necesita ayuda inmediata, pues no podemos permitir que destruyan esta flota. ¡Todas las navi principales deben sobrevivir!
-Defensa contro los Greel
-Greel en [LOCATION]
-Invasión Greel
-Il comandante [BOUNTYNAME] se ha retirado a la stazione de [LOCATION] bajo un fuerte ataque de las fuerzas Greel. Se necesita ayuda inmediata, pues no podemos permitir que destruyan esta flota. ¡Todas las navi principales deben sobrevivir!
-Defensa contro los Koriani
-Korianos en [LOCATION]
-Il comandante [BOUNTYNAME] se ha retirado a la stazione de [LOCATION] bajo un fuerte ataque de las fuerzas korianas. Se necesita ayuda inmediata, pues no podemos permitir que destruyan esta flota. ¡Todas las navi principales deben sobrevivir!
-Defensa contro los Red Devil
-Red Devil en [LOCATION]
-Invasión Red Devil
-Il comandante [BOUNTYNAME] se ha retirado a la stazione de [LOCATION] bajo un fuerte ataque de las fuerzas Red Devil. Se necesita ayuda inmediata, pues no podemos permitir que destruyan esta flota. ¡Todas las navi principales deben sobrevivir!
+Senior Junior
+Per l'alfiere [BOUNTYNAME] Jr. è la prima missione ed è in difficoltà. È solo contro alcuni spietati pirati. Normalmente questo non  giustificherebbe molta preoccupazione, ma è il figlio dell'ammiraglio [BOUNTYNAME_LAST] Sr. Abbiamo urgenza per mandare qualcuno a [LOCATION] e salvargli il culo.
+Vampiri spaziali
+Triplo terrore
+Corvette catturata
+Grandi notizie: abbiamo catturato una corvette Sanguisuga Viriax. Il problema è che dobbiamo portare questa nave a [LOCATION] per smontarla e studiarla, ma tutte le altre fazioni [SYSTEM] cercheranno di fermerci. Hai la nave da scorta più potente disponibile, ma la missione sarà comunque difficile.
+Difesa contro i Viriax
+Viriax in [LOCATION]
+Invasione Viriax
+Il comandante [BOUNTYNAME] si è rifugiato nella stazione [LOCATION] ed è sotto un forte attacco da parte delle forze Viriax. È necessario un aiuto immediato, poiché non possiamo consentire loro di distruggere questa flotta. Tutte le navi principali devono sopravvivere!
+Difesa contro i Greel
+Greel in[LOCATION]
+Invasione Greel
+Il comandante [BOUNTYNAME] si è rifugiato nella stazione [LOCATION] ed è sotto un forte attacco da parte delle forze Greel. È necessario un aiuto immediato, poiché non possiamo consentire loro di distruggere questa flotta. Tutte le navi principali devono sopravvivere!
+Difesa contro i Koriani
+Koriani in [LOCATION]
+Il comandante [BOUNTYNAME] si è rifugiato nella stazione [LOCATION] ed è sotto un forte attacco da parte delle forze Koriane. È necessario un aiuto immediato, poiché non possiamo consentire loro di distruggere questa flotta. Tutte le navi principali devono sopravvivere!
+Difesa contro i Red Devil
+Red Devil in [LOCATION]
+Invasione Red Devil
+Il comandante [BOUNTYNAME] si è rifugiato nella stazione [LOCATION] ed è sotto un forte attacco da parte delle forze Red devil. È necessario un aiuto immediato, poiché non possiamo consentire loro di distruggere questa flotta. Tutte le navi principali devono sopravvivere!
 Fragmentos Greel
 Progenitales
 Fragmentos del Imperio

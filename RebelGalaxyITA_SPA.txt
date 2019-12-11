@@ -2994,26 +2994,26 @@ Difesa contro i Red Devil
 Red Devil in [LOCATION]
 Invasione Red Devil
 Il comandante [BOUNTYNAME] si è rifugiato nella stazione [LOCATION] ed è sotto un forte attacco da parte delle forze Red devil. È necessario un aiuto immediato, poiché non possiamo consentire loro di distruggere questa flotta. Tutte le navi principali devono sopravvivere!
-Fragmentos Greel
-Progenitales
-Fragmentos del Imperio
-Se ha encontrado a algunos destructores Greel de clase Galaxian transportando fragmentos de progenitor, necesarios para que nuestros científicos repliquen ciertos experimentos Koriani desagradables... ¡Pero eso no importa! Necesitamos al menos dos. Podemos facilitar coordinate de las flotas Greel. Entrega esos fragmentos en la stazione [STATION] por [REWARD] crediti.
-Cronorrelé Murath
-Relè en [LOCATION]
-Confidencial
-Se ha encontrado un dispositivo conocido como cronorrelé Murath en la región de [LOCATION]. Il protocolo della Milizia dicta la destrucción de estos dispositivos. La probabilidad de que los Murath tomen represalias contro este acto es confidencial. Si tienes éxito, recibiràs [REWARD] crediti.
-Proliferación de relés
-Cronotrío
-Protocolo
-Han proliferado avistamientos de cronorrelés Murath demasiado cerca de una región confidencial. Il protocolo della Milizia dicta la destrucción de estas balizas. Se entregaràn [REWARD] crediti tras la eliminación dei tres relés e de sus defensores.
-Cronocrisis
-Cronochoque
-Invocación Murath
-Se necesita respuesta inmediata para resolver una crisis cerca de [LOCATION]. Parece que los Murath estàn intentando invocar un [Clasificado] con múltiples cronorrelés. Se pagaràn [REWARD] crediti si [Clasificado].
-Recupera al Iluminado
-Ironclaw Illuminate
-Il Iluminado de la Garra de Hierro
-Un profeta dudoso
+Frammento Greel
+Progenitori
+Frammento dell'Imperio
+Alcune corazzate Galaxian Greel sono state intercettate mentre trasportavano frammenti dei progenitori, necessari ai nostri scienziati per replicare alcuni esperimenti sgradevoli Korian... ma non importa! Ne abbiamo bisogno almeno due. Siamo in grado di fornirvi le coordinate della flotte Greel. Consegna quei frammenti alla stazione [STATION] per ottenere [REWARD] crediti.
+Chrono relè Murath
+relè [LOCATION]
+confidenziale
+Un dispositivo noto come chrono relé Murath è stato trovato nella regione [LOCATION]. Il protocollo della Milizia impone la distruzione di questi dispositivi. Il fatto che ci sia una alta probabilità che i Murath si vendicheranno per questo è confidenziale. Se ci riesci, riceverai [REWARD] crediti.
+Proliferazione di relè
+Chrono trio
+protocollo
+Gli avvistamenti chrono relé Murath sono aumentati troppo vicini a una regione sensibile. Il protocollo della Milizia impone la distruzione di questi relè. [REWARD] di crediti verranno consegnati dopo l'eliminazione dei tre relè e dei loro difensori.
+crisi del chrono
+repressione dei chrono
+Invocazione di Murath
+È necessaria una risposta immediata per risolvere una emergenza vicino a [LOCATION]. Sembra che i Murath stiano cercando di invocare un [CLASSIFIED] con più chrono relé. [REWARD] crediti saranno pagati per il [CLASSIFIED].
+Recupera l'Illuminato
+Ironclaw Illuminato
+Illuminato dell'Artiglio di ferro
+Un profeta dubbioso
 Un convoy Garra de Hierro Murath està transportando por [LOCATION] a un Iluminado dei Figli della Luce que ha sido secuestrado. Escanea la nave correcta e entrega a este dudoso profeta a las autoridades della Milizia de [STATION] a cambio de [REWARD].
 Casquería
 La cosecha de órganos

@@ -3113,72 +3113,71 @@ Le forze di Milizia sono nel mezzo di uno scontro su larga scala vicino a [LOCAT
 Instalaciones fràgiles
 Abbatti i disertori
 Attacco dei disertori
-I desertores della Milizia se han reunido para tomar el control de algunas de nuestras instalaciones, cerca de [LOCATION]. Protege estas fràgiles construcciones e elimina las navi principales Nemica. Il servicio de inteligencia predice que podràs cambiar las lealtades de algunos desertores cuando las navi principales hayan sido destruidas. Esto podría resultar en una valiosa ayuda en el campo.
+I disertori della Milizia si sono radunati per prendere il controllo di alcune delle nostre strutture, vicino a [LOCATION]. Proteggi queste deboli postazioni ed elimina le principali navi nemihea. Il servizio di intelligence prevede che riuscirai a far passare alla nostra causa alcuni disertori quando le navi principali saranno state distrutte. Ciò potrebbe essere un prezioso aiuto nel settore.
 Munizioni Red Devil
-Destrucción del depósito
-Maldita munición
-Il inmenso depósito de munición que tienen los Red Devil cerca de [LOCATION] apenas està protegido. ¡Es hora de atacar! Hay una recompensa de [REWARD] crediti disponible para el poderoso contratista que se encargue de esta misión.
-¿Dónde està Krunk?
+Distruzione del deposito
+Munizioni dannate
+L'enorme deposito di munizioni che Red Devils hanno vicino a [LOCATION] è a malapena protetto. È il momento di attaccare! È disponibile una ricompensa di [REWARD] crediti da parte di un potente appaltatore responsabile di questa missione.
+Dov'è Krunk?
 Krunk o no Krunk
-Doble Krunk
-A nadie le sorprende que el Capitano P. J. Krunk vuelva a estar desaparecido. Esta vez ni siquiera sabemos quién lo retiene, pero nos hacemos una idea. Echa un vistazo en las dos ubicaciones que te hemos dado. Mata a quien haya capturado a Krunk e tràelo a la stazione de [STATION].
-Acción miliciana
-Acción en [LOCATION]
-[LOCATION]: ¡Acción!
+Doppio Krunk
+Nessuno è sorpreso che il Capitano P.J. Krunk manchi di nuovo. Questa volta non sappiamo nemmeno chi lo ha catturato, ma abbiamo un'idea. Dai un'occhiata alle due posizioni che ti abbiamo dato. Uccidi chi ha catturato Krunk e portalo alla stazione [STATION].
+Azione della milizia
+Azione in [LOCATION]
+[LOCATION]: Azione!
 Punitore IIx
-Prototipo en peligro
-Protege el prototipo
-Un problema con el software en las fragatas experimentales Punitore IIx ha dejado los tres prototipos inoperativos. Mientras intentan solucionarlo, hanno bisogno di protezione contro los atacantes Greel. Hay tres navi en tres coordinate diferentes. Asegúrate de que al menos una de ellas sobrevive para volver a conectarse.
-Como moscas a la miel
-Cebo para desertores
-Ataque definitivo
-¡Es hora de lanzar el ataque definitivo contro estos malditos desertores! Estàn ganando dinero a base de traficar con contrabando en el puesto de Avanzata de [LOCATION]. Escanea a los mercantes que entren en la zona. Descubre e mata a los traficantes. Eso debería desencadenar un ataque dei desertores. Este debería ser su fin...
-Puerta Viriax
-Detén la investigación
-Destrucción de la Portale Iperluce
-Hemos detectado lo que creemos que è una instalación de investigación de Portale Iperluce Viriax cerca de [LOCATION], en el Sistema [SYSTEM]. No necesitamos decirte lo importante que es destruir este complejo lo antes posible. Ahora ve. Intentaremos enviarte algo de ayuda una vez llegues allí.
-Libre comercio
-Defensa del comercio
-Comerciantes en peligro
-I comerciantes del puesto de Avanzata de [LOCATION] estàn siendo atacados por los pirati. Tenemos que restablecer la confianza en el Sistema [SYSTEM]. Ve allí e asegúrate de que no matan a ningún comerciante. Debes destruir todas las navi principales Nemica. Se autoriza un pago de [REWARD] crediti por ello.
-La guerra de Krunk
-Apocalipsis
-Il Capitano P. J. Krunk està en medio de una batalla campal cerca de [LOCATION]. Ayúdalo destruyendo las navi principales Nemica. Cuidado con los refuerzos.
-Introducción a la piratería IV
-Espera...
-Es un trabajo fàcil para un pirata con recursos. Se espera que un convoy mercante disperso pase por [LOCATION], e los asteroidi permiten ocultarse con facilidad. Aguarda a que vengan junto a ti.
-Introducción a la piratería V
-Whisky para todos
-La perdición del traficante
-We've got word of a shipment of Greel Whiskey passing through [LOCATION], [SYSTEM] System. This is a Red Devil route, and these merchants have not paid our fee. Take them out and keep the booze for yourself.
-Nos han dicho que hay un carico de whisky Greel pasando por [LOCATION], en el Sistema [SYSTEM]. Es una ruta Red Devil e estos mercaderes no han pagado nuestra mordida. Elimínalos e quédate con la bebida.
-Introducción a la piratería VI
-Guarda de [BOUNTYNAME]
-Botín de mercenarios
-Un convoy con un carico valioso ha sido avistado cerca de [LOCATION], en el Sistema [SYSTEM]. Este convoy està bajo la protezione de [BOUNTYNAME], líder Mercenario. Por supuesto, el carico que recuperes es todo tuyo, pero líbranos de [BOUNTYNAME_LAST] e te daremos [REWARD] crediti extra.
+Prototipo in pericolo
+Proteggi il prototipo
+Un problema con il software nelle fregate sperimentali Punitore IIx ha reso inattivi tutti e tre i prototipi. Mentre tentano di ripararlo, hanno bisogno di Protezione, controlla gli attacchi Greel. Ci sono tre navi a tre diverse coordinate. Assicurati che almeno una di loro sopravviva per riconnettersi.
+Come le mosche sul miele
+Esca per disertori
+L'attacco finale
+È tempo di lanciare un attacco definitivo contro questi dannati disertori! Stanno facendo soldi sfruttando il contrabbando nell'Avanguardia di [LOCATION]. Scansiona i commercianti che entrano nell'area. Scopri e uccidi i trafficanti. Ciò dovrebbe innescare una reazione da parte dei disertori. Questa dovrebbe essere la loro fine...
+Portale Viriax
+Ferma la ricerca
+Distruzione del portale Iperluce
+Abbiamo rilevato ciò che crediamo sia una struttura di ricerca per Portali Iperluce Viriax vicino a [LOCATION], nel sistema [SYSTEM]. Non c'è bisogno di dirti quanto sia importante distruggere questo complesso il prima possibile. Adesso vai. Cercheremo di inviare degli aiuti una volta che sarai lì.
+Libero scambio
+Difesa del commercio
+Commercianti in pericolo
+I commercianti dell'Avamposto di [LOCATION] vengono continuamente attaccati dai pirati. Dobbiamo ripristinare la sicurezza del sistema [SYSTEM]. Vai lì e assicurati che non uccidano nessun commerciante. Devi distruggere tutte le principali navi nemiche. Per questa missione è autorizzato un pagamento di [REWARD] crediti.
+La guerra di Krunk
+apocalisse
+Il Capitano P.J. Krunk è nel mezzo di una battaglia campale vicino a [LOCATION]. Aiutalo distruggendo le principali navi nemiche. Fai attenzione ai rinforzi.
+Introduzione alla pirateria IV
+Aspetta...
+Ecco un lavoro facile per un pirata intraprendente: c'è un convoglio di mercantili dispersi che dovrebbe passare attraverso [LOCATION], pochi alla volta. Gli asteroidi rendono facile il nascondere. Aspetta quindi che vengano da te.
+Introduzione alla pirateria V
+Whisky per tutti
+La rovina del trafficante
+Abbiamo notizia di una spedizione di Whisky Greel che passa attraverso [LOCATION] del sistema [SYSTEM]. Questa è una rotta dei Red Devils e questi commercianti non ci hanno pagato il pedaggio. Eliminali e tieniti l'alcol per te.
+Abbiamo notizia di una spedizione di Whisky Greel che passa attraverso [LOCATION] del sistema [SYSTEM]. Questa è una rotta dei Red Devils e questi commercianti non ci hanno pagato il pedaggio. Eliminali e tieniti l'alcol per te.
+Introduzione alla pirateria VI
+Guardia di [BOUNTYNAME]
+Bottino dei mercenari
+Un convoglio con un carico prezioso è stato individuato vicino a [LOCATION], nel Sistema [SYSTEM]. Questo convoglio è sotto la protezione del leader mercenario [BOUNTYNAME]. Ovviamente, il carico che recupererai è tutto tuo, ma liberaci da [BOUNTYNAME_LAST] e ti daremo [REWARD] crediti extra.
 [CARGO] a [LOCATION]
-Il expreso Red Devil
+Red Devil Express
 [CARGO] Red Devil
-Nuestros agentes de [LOCATION] hanno bisogno di [COUNT] unità di [CARGO] inmediatamente. Podemos proporcionarles [CARGO]. Tu misión serà abrirte paso a través dei bloqueos o patrullas della Milizia. Il premio son [REWARD] crediti.
-Interdicción de [CARGO]
-Entrega de productos en interdicto
-Interdicción della Milizia
-La Milizia ha declarado una interdicción en la stazione de [LOCATION], pero nosotros tenemos [COUNT] unità di [CARGO] que tienen que estar ahí enseguida. Ábrete paso a la fuerza, pero àndate con ojo, ¡que la Milizia se toma esto muy en serio!
-Prohibición de [CARGO]
-Entrega de productos prohibidos
-Prohibición della Milizia
-I lugareños de la stazione de [LOCATION] tienen un acuerdo lucrativo para mover [COUNT] unità di [CARGO]. Tu parte asciende a [REWARD] crediti. Múltiples patrullas milicianas estàn alerta, evítalas si puedes.
-¡Desrescata a Krunk!
-Patata caliente
-Tuvimos en nuestras manos al Capitano P. J. Krunk, el tonto della Milizia, hasta que un maldito mercenario lo rescató. I hemos seguido hasta el puesto de Avanzata de [LOCATION] e hemos establecido un perímetro, pero no estamos seguros de en qué nave està. ¡Escanea a todos los mercenarios, encuentra a Krunk, "desrescàtalo" e tràenoslo a [STATION] por [REWARD] crediti!
-Il esclavo equivocado
+I nostri agenti di [LOCATION] hanno immediatamente bisogno di [COUNT] unità di [CARGO]. Possiamo fornire loro [CARGO]. La tua missione sarà quella di farti strada attraverso i posti di blocco o le pattuglie della Milizia. Il premio sarà di [REWARD] crediti.
+interdizione del [CARGO]
+Consegna dei prodotti proibiti
+Interdizione della Milizia
+Milizia ci ha interdettto dalla stazione [LOCATION], ma abbiamo [COUNT] unità di [CARGO] che devono essere portate lì immediatamente. Apriti la strada anche con la forza, ma stai attento che Milizia fa sul serio!
+Consegna di prodotti vietati
+Divieto della Milizia
+Alcuni locali della stazione [LOCATION] hanno un accordo redditizio per spostare [COUNT] unità di [CARGO]. La tua quota è pari a [REWARD] crediti. Ci sono più pattuglie della Milizia in giro, evitali se puoi.
+Sbarazzati di Krunk!
+Patata bollente
+Avevamo quel pazzo del capitano della Milizia P.J. Krunk, nelle nostre mani, fino a quando quel dannato mercenario l'ha salvato. Si è diretto all'Avanposto di [LOCATION] ed ha stabilito un perimetro di difesa, non sappiamo su quale nave sia. Scansiona tutti i mercenari, trova Krunk, "neutralizzalo" e portalo su [STATION] per [REWARD] crediti!
+Lo schiavo sbagliato
 Caos Schiavista
-Il superviviente dei DoubleJack
-Esto es un caos, pero la base de [STATION] acaba de fletar tres navi de esclavos. Resulta que uno dei esclavos es en realidad un Capitano dei DoubleJack, e el servicio de inteligencia lo necesita de vuelta para interrogarlo; pero, por desgracia, estas navi no responden. Te daremos le coordinate de las tres navi, las cuales podrían decidir que eres hostil, así que... bueno... haz lo que debas para traer de vuelta al Capitano.
-Envío de diamantes
-Il expreso dei diamantes
-Escolta de piedras preciosas
-Uno de nuestros mercantes ha tenido problemas con los Murath al intentar transferir algunos diamantes meteóricos. Reúnete con [BOUNTYNAME], escólta[HIM] a [LOCATION] e [HELL] pagarà [REWARD] crediti.
+Il sopravvissuto dei DoubleJack
+Questo è un casino! La base di [STATION] ha appena noleggiato tre navi schiaviste. Abbiamo scoperto che uno degli schiavi è in realtà un Capitano dei DoubleJack, e il servizio di intelligence ha bisogno che sia recuperato per interrogarlo; ma, sfortunatamente, queste navi non ci rispondono. Ti daremo le coordinate delle tre navi, potrebbero dimostrarsi ostili, quindi... beh... fai quello che ti serve per riportare indietro il capitano.
+Spedizione dei diamanti
+L'espresso dei diamanti
+Scorta di pietre preziose
+Uno dei nostri mercanti ha avuto problemi con i Murath quando ha cercato di vendere alcuni diamanti meteorici. Incontra [BOUNTYNAME], scorta [HIM] a [LOCATION] e [HELL] ti pagherà [REWARD] crediti.
 Presa fàcil
 Presa Koriana
 Sin defensa

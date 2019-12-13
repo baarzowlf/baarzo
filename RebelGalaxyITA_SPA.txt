@@ -3029,90 +3029,90 @@ I diplomatici del Red Devil hanno catturato il Capitano P.J. Krunk e lo stanno t
 Rinforzi dell'Ammiragliato
 Rinforzi di [BOUNTYNAME_LAST]
 Ammiraglio [BOUNTYNAME_LAST]
-[BOUNTYNAME], almirante, necesita ayuda inmediata en su campaña. I Red Devil [HIM] amenazan. [HIS_CAP] pueden derrotar en cualquier momento. Viaja hasta [LOCATION] e ayúdale en la defensa de su posición.
+L'ammiraglio [BOUNTYNAME] ha bisogno di aiuto urgente nella [HIS] campagna Red Devil. [HIS_CAP] può essere sconfitto in qualsiasi momento. Viaggia a [LOCATION] e aiutalo a difendere la sua posizione.
 Embargo Red Devil
-8 toneladas de Omnium
-Omnium para [LOCATION]
-La logística della Milizia necesita que se burle un bloqueo persistente Red Devil e se entreguen 8 toneladas de Omnium en [LOCATION]. No hay ninguna necesidad de enfrentarse a los pirati, pero sobre ellos hay recompensas que podrías cobrar.
-Il alzamiento de Lucifer
-Prototipo de torpedero
-Il Hijo de la Mañana
-Objetivo prioritario: prototipos de Lucifer Red Devil. Ubicación del objetivo: [LOCATION]. I ingenieros Red Devil estàn probando un nuevo prototipo de nave Lanciasiluri. Si la prueba fracasa, se retrasaría la producción de esta peligrosa nueva nave.
-Escaramuza miliciana
-Escaramuza en [LOCATION]
-Las fuerzas della Milizia se estàn enfrentando en una escaramuza cerca de [LOCATION]. Aiuta la causa destruyendo las navi principales Nemica. Cuidado con los refuerzos.
-Enfrentamiento miliciano
-Enfrentamiento en [LOCATION]
-Las fuerzas della Milizia estàn en medio de una refriega cerca de [LOCATION]. Aiuta la causa destruyendo las navi principales Nemica. Cuidado con los refuerzos.
-Batalla miliciana
-Las fuerzas della Milizia estàn en plena batalla cerca de [LOCATION]. Aiuta la causa destruyendo las navi principales Nemica. Cuidado con los refuerzos.
+8 tonnellate di Omnium
+Omnium in [LOCATION]
+La logistica della Milizia deve superare un pericoloso blocco di Red Devil e consegnare 8 tonnellate di Omnium in [LOCATION]. Non è necessario affrontare i pirati, ma su di essi ci sono taglie che potresti raccogliere.
+La rivolta di Lucifero
+Prototipo di siluro
+Il figlio dell'Alba
+Obiettivo prioritario: prototip Lucifero Red Devil. Posizione target: [LOCATION]. I tecnici Red Devil stanno testando un nuovo prototipo di nave Lanciasiluri. Se il test fallisse, la produzione di questa pericolosa nuova nave sarebbe ritardata.
+Schermaglia della milizia
+Schermaglia in [LOCATION]
+Le forze della Milizia stanno affrontando una schermaglia vicino a [LOCATION]. Aiutali distruggendo le principali navi nemiche. Fai attenzione ai rinforzi.
+Scontro della milizia
+Scontro in [LOCATION]
+Le forze della Milizia stanno affrontando uno scontro vicino a [LOCATION]. Aiutali distruggendo le principali navi nemiche. Fai attenzione ai rinforzi.
+Battaglia della milizia
+Le forze della Milizia stanno affrontando una battaglia vicino a [LOCATION]. Aiutali distruggendo le principali navi nemiche. Fai attenzione ai rinforzi.
 Diplomatico dei Figli della Luce
-Encuentro con los Figli della Luce
-Escolta diplomàtica
-Un Iluminado dei Figli della Luce se dirige hacia las oficinas della Milizia para tratar asuntos delicados. Le han otorgado plena protezione diplomàtica, pero las fuerzas Murath le van a la zaga. Reúnete con el Iluminado e escóltalo hasta [LOCATION] para ganar [REWARD].
-Contrabando Red Devil
-Escanea en busca de contrabando
-Contrabandistas
-I contrabandistas Red Devil estàn intentando introducir Narco-Cola en [STATION]. Intercepta el convoy mercante cerca de [LOCATION], escanea sus bodegas en busca de contrabando e destruye a los contrabandistas cuando los pilles con las manos en la masa.
-Prohibición de Narco
-Contrabandistas de Narco
-Escaneo de Narco
-Le autorità di [STATION] nos han avisado de un carico de Narco-Cola escondido en un convoy legal que viaja por la zona de [LOCATION]. Escanea en busca de contrabando para poner a los contrabandistas Red Devil en evidencia e destruirlos. Cuidado con los refuerzos.
-Cronoinvasión
-Defensa Murath
-Invasión en [LOCATION]
-Il puesto de Avanzata de [LOCATION] ha descubierto una serie de cronorrelés Murath en sus alrededores. Destruirlos provoca un ataque Murath inmediato. Il puesto de Avanzata no puede enfrentarse a esta amenaza por su cuenta. Se accetterai la misión, recibiràs [REWARD] crediti.
-¡Batalla en [LOCATION]!
-Tràfico de esclavos
-Hora de partir cràneos
-Presuntos esclavistas
-Es hora de lanzar un ataque contro el tràfico de esclavos en el Sistema [SYSTEM]. Estamos rastreando a tres posibles contrabandistas en varias ubicaciones. Escanea a los mercantes en cada ubicación, identifica a los esclavistas e dales una lección. Ten cuidado con los enemigos tras identificar a los esclavistas.
-Estasis de relé
-Cronorrescate
-Estasis: [BOUNTYNAME]
-Acaba de llegar una comunicación de emergencia de [BOUNTYNAME]. Cree que unos cronorrelés Murath cercanos estàn afectando a [HIS] nave. Destruye los relés e ayúda[HIM] contro los atacantes Murath.
-Traidores en [LOCATION]
-Rebelión en [LOCATION]
-Entrega a Krunk
-Se està gestando una pequeña rebelión en [LOCATION] e creemos que nuestra mejor oportunidad de atajarla es llevar allí al ilustre Capitano P. J. Krunk para arengar a las tropas. Le estamos construyendo un nuevo e flamante destructor, pero, hasta entonces, necesita tu ayuda para llegar allí. Il servicio de inteligencia sospecha que habrà traidores intentando bloquear el camino.
+Incontro con i Figli della Luce
+Scorta diplomatica
+Un Illuminato dei Figli della Luce si sta dirigendo agli uffici della Milizia per affrontare questioni delicate. Gli hanno garantito una protezione diplomatica completa, ma le forze di Murath sono in ritardo rispetto a lui. Intercetta l'Illuminato e scortalo a [LOCATION] per ricevere [REWARD].
+Contrabbando Red Devil
+Scansione per merci di contrabbando
+Contrabbandieri
+I contrabbandieri dei Red Devil stanno cercando di introdurre Narco-Cola in [STATION]. Intercetta il convoglio mercantile vicino a [LOCATION], scansiona il loro caico alla ricerca di merci di contrabbando ed elimina i trafficanti quando li prenderai con le mani nel sacco.
+Divieto di Narco-Cola
+Contrabbandieri di Narco-Cola
+Scansione per Narco-Cola
+Le autorità della [STATION] ci hanno informato di un carico di Narco-Cola nascosto in un convoglio autorizzato che viaggia attraverso l'area [LOCATION]. Cerca le merci di contrabbando per smascherare i trafficanti Red Devil e distruggili. Fai attenzione ai rinforzi.
+Invasione Chrono
+Difese Murath
+Invasione in [LOCATION]
+L'Avamposto di [LOCATION] ha scoperto una serie di chrono relés Murath nelle sue vicinanze. La loro distruzione porterà i Murath ad attaccare immediatamente. L'Avamposto non può affrontare questa minaccia da sola. Se si accede alla missione, si riceveranno [REWARD] crediti.
+Battaglia in [LOCATION]!
+Traffico di schiavi
+È ora di spaccare qualche testa
+Presunti schiavisti
+È il momento di lanciare un attacco al traffico di schiavi nel sistema. Stiamo monitorando tre possibili trafficanti in varie località. Scansiona i commercianti in ogni posizione, identifica gli schiavisti e impartisci loro una lezione. Fai attenzione ai nemici dopo aver identificato gli schiavisti.
+Stasi del relè
+Recupaera Chrono relè
+Stasi: [BOUNTYNAME]
+È appena arrivata una comunicazione di emergenza da [BOUNTYNAME]. Crede che i chrono relé Murath stiano colpendo la [HIS] nave. Distruggi i relè e aiuta [LUI] a sistemare gli attaccanti Murath.
+Traditori in [LOCATION]
+Ribellione in [LOCATION]
+Consegna a Krunk
+Una piccola ribellione si formando a [LOCATION] e crediamo che il miglior modo per fermarla sia quella di portare lì l'illustre Capitano P.J. Krunk per arruolare nuove truppe. Gli stiamo costruendo un nuovissimo cacciatorpediniere, ma fino ad allora ha bisogno del tuo aiuto per arrivarci. Il servizio di intelligence sospetta che ci saranno traditori che tenteranno di bloccarvi la strada.
 Base Red Devil
-Furia en el puesto de Avanzata
-La línea en la arena
-I pirati Red Devil estàn intentando establecer una nueva base cerca de [LOCATION] en el Sistema [SYSTEM]. Il estado mayor della Milizia tiene como massima prioridad destruir esta base antes de que se conecte. Cuando hayas completado el trabajo, recibiràs [REWARD] crediti.
-Krunk contro todos
-Ayuda no solicitada
-Batalla campal
-Il Capitano P. J. Krunk està solo cerca de [LOCATION]. I últimos informes indican que varias facciones lo estàn atacando. No solicita ayuda inmediata, pero el estado mayor pide que los pilotos locales respondan si pueden.
-[LOCATION]: ¡Enfrentamiento!
-Las fuerzas della Milizia tienen un enfrentamiento cerca de [LOCATION]. Aiuta la causa destruyendo las navi principales Nemica. Cuidado con los refuerzos.
-Embargo de panfletos
-Panfletos de [BOUNTYNAME]
-Panfletos prohibidos
-[BOUNTYNAME], radical della Gilda dei Mercanti, està bajo sospecha por traficar con materiales religiosos prohibidos en el puesto de Avanzata de [LOCATION]. La Milizia no ha podido asegurar el apoyo al puesto de Avanzata para detener este negocio. Escanea a los mercantes que estàn entrando en esta zona de mucho tràfico e mata al que trafique con panfletos religiosos. Tendràs poco màs de un minuto antes de que le dé tiempo a descargar el carico.
-Defensa doble
-Dos por uno
-Piracy is out of control in the [SYSTEM] System. Reports of two simultaneous incidents are coming in at this moment. The Militia is stretched thin, so we need you to handle them both. An exception is being granted for a generous disbursement of [REWARD] credits.
-La piratería està fuera de control en el Sistema [SYSTEM]. Ahora mismo estàn llegando informes de dos incidentes simultàneos. La Milizia no da abasto, por lo que necesitamos que te encargues de ambos. Se autoriza hacer una excepción para ofrecer un generoso pago de [REWARD] crediti.
-Escanea en busca de la entidad
-Escaneo de desertores
-La Milizia està buscando a los desertores que han robado una entidad biológica inestable del Sistema [SYSTEM]. Acaban de identificar a un sospechoso grupo de comerciantes. Viaja a le coordinate proporcionadas e escanéalos en busca de la entidad. Si la llevan, recupérala e tràela a la stazione de [STATION] por [REWARD] crediti.
-Atrocidades
-Il terror dei órganos
-Infames
-Korian war criminals are operating three of their unspeakable Organ Harvesters at full capacity in [LOCATION]. Destroy these atrocities for a [REWARD] credit disbursement and the relief of the horrified local citizens.
-I criminales de guerra Koriani estàn usando tres de sus infames Cosechadoras de Órganos a pleno rendimiento en [LOCATION]. Destruye estas atrocidades por [REWARD] crediti e para alivio dei lugareños aterrorizados.
-Tràfico de órganos
-Órganos Koriani
-Negocio sangriento
-Hemos podido destruir las Cosechadoras de Órganos korianas, pero su producto està inundando los mercados de contrabando. Ahora mismo estamos rastreando a tres convoyes mercantes que son sospechosos de transportar órganos dentro del Sistema [SYSTEM]. Escanea sus bodegas. Si llevan algún tipo de contrabando, tienes autorización para eliminarlos.
-Fiesta en [LOCATION]
-Il entretenimiento
-Venganza Greel
-La Milizia de [LOCATION] està celebrando su gran victoria sobre los Greel en [SYSTEM]. Tenemos algunas cosas para la fiesta que queremos entregar en [LOCATION], pero el servicio de inteligencia nos advierte de una màs que posible venganza del Sindacato Greel. Se pagaràn [REWARD] crediti a la entrega.
-Las fuerzas della Milizia estàn en medio de un enfrentamiento a gran escala cerca de [LOCATION]. Aiuta la causa destruyendo las navi principales Nemica. Cuidado con los refuerzos. AVISO: I aliados della Milizia en los alrededores han visto su moral mermada. Si alguna nave principal miliciana resulta destruida, es probable que sus escoltas deserten e se enfrenten a ti.
+Fury nell'Avamposto
+La linea nella sabbia
+I pirati Red Devil stanno cercando di stabilire una nuova base vicino a [LOCATION] nel sistema [SYSTEM]. Gli uomini della Milizia hanno la massima priorità di distruggere questa base prima che sia pronta. Una volta completato il lavoro, riceverai [REWARD] crediti.
+Krunk contro tutti
+Aiuto non richiesto
+Battle Royale
+Il Capitano P.J. Krunk è solo vicino a [LOCATION]. Gli ultimi rapporti indicano che diverse fazioni lo stanno attaccando. Non chiede aiuto immediato, ma lo staff del generale chiede ai piloti locali di rispondere se possono.
+[LOCATION]: confronto!
+Le forze della Milizia stanno avendo un confronto vicino a [LOCATION]. Aiutali distruggendo le principali navi nemiche. Fai attenzione ai rinforzi.
+Blocco delle scritture religiose
+scritture religiose in [BOUNTYNAME]
+scritture religiose proibite
+Il radicale [BOUNTYNAME] della Gilda dei Mercanti, è sospettato di aver a che fare con materiale religioso proibito presso il l'Avanguardia di [LOCATION]. La Milizia non è stata in grado di fermare questo business nell'Avampostod. Scansiona i mercanti che stanno entrando in questa zona e uccidi coloro che hanno a che fare con scritture religiosi proibite. Avrai poco più di un minuto per impossesarti del carico prima che le scritture vengano eliminate.
+Doppia difesa
+due per uno
+La pirateria è fuori controllo nel sistema [SYSTEM]. In questo momento arrivano segnalazioni di due incidenti simultanei. La Milizia è in emergenza, quindi abbiamo bisogno che tu li gestisca entrambi. È stata concessa eccezionalmente una generosa erogazione di [REWARD] crediti.
+La pirateria è fuori controllo nel sistema [SYSTEM]. In questo momento arrivano segnalazioni di due incidenti simultanei. La Milizia non riesce a dare supporto, quindi abbiamo bisogno che tu li gestisca entrambi. È stata concessa eccezionalmente una generosa erogazione di [REWARD] crediti.
+Cerca l'Entità
+Scansione per disertori
+La Milizia è alla ricerca di disertori che hanno rubato un'entità biologica instabile dal Sistema [SYSTEM]. Hanno appena identificato un gruppo sospetto di commercianti. Viaggia fino alle coordinate fornite e cerca l'entità biologica. Se la trasportano, recuperala e portala alla stazione [STATION] per [REWARD] crediti.
+atrocità
+Il terrore degli organi
+infami
+I criminali di guerra Korian gestiscono a pieno regime tre dei loro indicibili mietitori di organi a [LOCATION]. Distruggi queste atrocità per un esborso di [REWARD] crediti e per il sollievo degli inorriditi cittadini locali.
+I criminali di guerra Korian gestiscono a pieno regime tre dei loro indicibili mietitori di organi a [LOCATION]. Distruggi queste atrocità per un esborso di [REWARD] crediti e per il sollievo degli inorriditi cittadini locali.
+Traffico di organi
+Organi Koriani
+Affare insanguinato
+Siamo riusciti a distruggere i mietitori Korian, ma il loro prodotto sta invadendo i mercati del contrabbando. Al momento stiamo monitorando tre convogli mercantili sospettati di trasportare organi all'interno del Sistema [SYSTEM]. Scansiona i loro carichi. Se trasportano qualsiasi tipo di merce di contrabbando, sei autorizzato ad eliminarli.
+Festa in [LOCATION]
+Il divertimento
+Vendetta Greel
+La Milizia di [LOCATION] sta celebrando la sua grande vittoria sui Greel nel [SYSTEM]. Abbiamo alcune cose per la festa che vogliamo consegnare a [LOCATION], ma il servizio di intelligence ci mette in guardia su una possibile vendetta del Sindacato Greel. [REWARD] crediti verrano pagati alla consegna.
+Le forze di Milizia sono nel mezzo di uno scontro su larga scala vicino a [LOCATION]. Aiutali distruggendo le principali navi nemiche. Fai attenzione ai rinforzi. AVVISO: gli alleati della Milizia hanno subito molte perdite e sono giù di morale. Se una qualsiasi altra nave della milizia verrà, probabilmente le navi alleate vi abbandoneranno o si rivoleteranno contro.
 Instalaciones fràgiles
-Redime a los desertores
-Ataque dei desertores
+Abbatti i disertori
+Attacco dei disertori
 I desertores della Milizia se han reunido para tomar el control de algunas de nuestras instalaciones, cerca de [LOCATION]. Protege estas fràgiles construcciones e elimina las navi principales Nemica. Il servicio de inteligencia predice que podràs cambiar las lealtades de algunos desertores cuando las navi principales hayan sido destruidas. Esto podría resultar en una valiosa ayuda en el campo.
 Munizioni Red Devil
 Destrucción del depósito

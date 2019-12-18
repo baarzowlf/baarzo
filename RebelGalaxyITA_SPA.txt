@@ -3224,60 +3224,60 @@ Carico proibito
 Uccidi Krunk
 Il nuovo giocattolo Krunk
 Occupati di Krunk
-Sembra che il Capitano della Milizia P.J. Krunk abbia un nuovo giocattolo, un nuovo scintillante distruttore, e vada in giro ad uccidere Red Devil. Stiamo gettando tutto ciò che abbiamo, ma non muore. Lo stanno affrontando ora nell'area [LOCATION], se puoi andare in aiuto.
-Hora de explosiones
-Contra los Red Devil
-Destruye un poco
-Està claro que tenemos muchos enemigos ahí fuera e no se van a matar solos. I Red Devil deben dar un paso al frente. Estamos acumulando un montón de coordinate. Regístrate e te daremos 3 para que escojas. Elige la que quieras. ¡Es hora de reventar cosas!
-Ejecuta a [BOUNTYNAME]
-Mandamàs della Milizia
-Descabeza a la cabeza
-[BOUNTYNAME], mandamàs della Milizia, es responsable de la masacre de [SYSTEM] del año pasado. Es hora de vengarse. Creemos que puedes sacar[HIM] de su escondrijo, pero no aparecerà hasta que le hayas causado suficiente daño. Ve a [LOCATION] e sigue matando hasta que [BOUNTYNAME_LAST] se interese.
-Il soplo del topo
-Con un par
-La valentía de [BOUNTYNAME]
-Un topo della Milizia nos ha avisado de una emboscada contro [BOUNTYNAME], Capitano Red Devil, quien quiere aparecer de todas formas e darles una paliza. Necesitamos que vayas a esa emboscada e le facilites el trabajo ablandàndoselos un poco. Cuando aparezca, protége[HIM] e dispersa a la Milizia. Te daremos [REWARD] crediti. Las coordinate estaràn disponibles cuando aceptes.
-Protege la flota
-Equilibra la balanza
-Tres reyes
-Tres navi principales Red Devil estàn en medio de una escaramuza fuera de [LOCATION] e han perdido sus escoltas. No podemos permitirnos perder estas navi. Si puedes mantenerlos con vida, tendràs a tu disposición una recompensa de [REWARD] crediti.
-Introducción a la piratería IX
+Sembra che il Capitano della Milizia P.J. Krunk abbia un nuovo giocattolo, un nuovo scintillante distruttore, e vada in giro ad uccidere Red Devil. Gli stiamo sparando contro tutto quello che abbiamo, ma non vuole muorire. Lo stiamo affrontando ora nell'area [LOCATION], se puoi andare ad aiutarli.
+l'ora della distruzione
+Contro i Red Devil
+Uccidi qualcosa
+È chiaro che abbiamo molti nemici là fuori e non si elimineranno da soli. I Red Devil devono evolversi. Stiamo raccogliendo molte coordinate. Arruolati e ti daremo 3 cordinate tra cui scegliere. Scegli quella che desideri. È arrivata l'ora della distruzione!
+Giustizia [BOUNTYNAME]
+Il Boss della Milizia
+Scuotere la testa
+Il boss della Milizia, [BOUNTYNAME], è responsabile del massacro al [SYSTEM] dell'anno scorso. È tempo di vendicarsi. Riteniamo che tu possa stanare [HIS] dal suo nascondiglio, ma non uscirà finché non avrai causato abbastanza danni. Vai a [LOCATION] e continua a uccidere fino a quando [BOUNTYNAME_LAST] non si presenterà.
+Il soffiata della talpa
+Con un paio
+Il valore di [BOUNTYNAME]
+Una talpa della Milizia ci ha avvertito di un agguato contro il Capitano Red Devil, [BOUNTYNAME], che vuole comunque presentarsi per dargli una lezione. Abbiamo bisogno che tu vada a quell'imboscata e faciliti il lavoro ammorbidendoli un po'. Quando arriverà, proteggi [HIM] e sbarazzati della Milizia. Ti daremo [REWARD] crediti. Le coordinate saranno disponibili quando accetti.
+Proteggi la flotta
+Pareggia l'offerta
+Tre re
+Tre grandi navi Red Devil sono nel mezzo di una schermaglia fuori [LOCATION] e hanno perso le loro scorte. Non possiamo permetterci di perdere queste navi. Se riesci a mantenerle in vita, avrai a disposizione un premio di [REWARD] crediti.
+Introduzione alla pirateria IX
 Il Re dei Mercanti
-Jaque al Re
-Il llamado "Re dei Mercanti" està usando presas fàciles como cebo para los Red Devil. Ve a eliminar a algunos dei mercantes en las ubicaciones que proporcionamos. En algún momento, el "Re" aparecerà. ¡Esta vez la trampa es para él!
+Controlla il Re
+Il cosiddetto "Re dei Mercanti" sta usando delle prede facili come esca per i Red Devil. Elimina alcuni dei commercianti nelle località che ti forniamo. Ad un certo punto, apparirà il "Re". Questa volta la trappola sarà per lui!
 Introduzione alla Pirateria
 Paradiso dei Minatori
 Antimateria Zero
-Nos han dicho que un minero afortunado, que estaba en los campos de [LOCATION], ha encontrado un montón de antimateria. No hace falta que te diga lo valiosa que es. Pero, ten cuidado, puede que este rumor también haya llegado a otros.
-Introducción a la piratería XX
-La llamada del botín
-Hay un comerciante galàctico que va a hacer una parada en el puesto de Avanzata de [LOCATION]. Anda metido en grandes pedidos de productos de lujo. Esto significa que los comerciantes locales van a llegar a raudales a la stazione con cargamentos importantes. Ya conoces la situación. ¡Consigue el botín!
-Entrega criminal
-Se busca un piloto valiente que se abra paso a través del bloqueo della Milizia en la stazione de [STATION]. Se cargaràn nella tua stiva [COUNT] unità di [CARGO]. Si consigues entregarlas, recibiràs [REWARD] crediti.
-Pan comido
-Tenemos una oportunidad para mover [COUNT] unità di [CARGO] al puesto de Avanzata de [LOCATION]. Debería ser pan comido, la misión màs fàcil que hayas hecho... salvo que no lo sea.
-Gigantes durmientes
-La dínamo de estasis
+Ci è stato detto che un fortunato minatore, che era nei campi [LOCATION], ha trovato molta antimateria. Non ho bisogno di dirti quanto sia preziosa. Ma fai attenzione, questa voce potrebbe aver raggiunto anche altri.
+Introduzione alla pirateria XX
+La chiamata del bottino
+C'è un mercante galattico che si fermerà all'Avamposto di [LOCATION]. È interessato a grandi ordini di prodotti di lusso. Ciò significa che i mercanti locali affluiranno nella stazione con carichi preziosi. Sai già cosa devi fare. Impossessati del bottino!
+Consegna criminale
+Si cerca un pilota coraggioso che attraversi il blocco della Milizia nella stazione di [STATION]. Nella tua stiva verranno caricate [COUNT] unità di [CARGO]. Se riesci a consegnarle, riceverai [REWARD] crediti.
+Pane mangiato
+Abbiamo l'opportunità di spostare [COUNT] unità di [CARGO] nell'avamposto di [LOCATION]. Dovrebbe essere un gioco da ragazzi, la missione più semplice che tu abbia mai fatto... almeno spero che lo sia.
+Giganti addormentati
+La dinamo di stasi
 I Giganti di [BOUNTYNAME]
-[BOUNTYNAME], Capitano de la casa, està probando una dínamo de estasis experimental. Ha funcionado demasiado bien. En este momento tiene tres navi principales Nemica e sus escoltas bloqueadas, pero no serà por mucho tiempo. Ayúda[HIM] a destruir esta flota antes de que las navi se vuelvan a conectar. Asegúrate de que [BOUNTYNAME_LAST] sobreviva para el informe de misión.
-Il mineral del Sistema [SYSTEM]
-Il mineral de la dínamo
-Nuestros prototipos de dínamo de estasis hanno bisogno di una variedad rara de Omnium conocida como Omnium primario. I mineros del Sistema [SYSTEM] estàn encontrando los únicos recursos conocidos. Podemos proporcionarte algunas posibles coordinate de campos de asteroidi. Escanea a los mineros locales hasta que nos puedas traer 2 unidades.
+Il nostro capitano, [BOUNTYNAME],  sta testando una dinamo sperimentale di stasi. Funziona fin troppo bene. Al momento ha tre navi nemiche principali con le loro scorte bloccate, ma non durerà a lungo. Aiuta [HIM] a distruggere queste navi prima che si riattivino. Assicurati che [BOUNTYNAME_LAST] sopravviva per far rapporto sulla missione.
+Il minerale del Sistema [SYSTEM]
+Il minerale della dinamo
+I nostri prototipi di Dinamo di Stasi richiedono una rara forma di minerale Omnium, noto come Omnium Primordiale. I minatori nel sistema [SYSTEM] sono gli unici a trovarne tra le fonti conosciute. Siamo in grado di fornire alcune potenziali coordinate del campo di asteroidi. Scansiona i minatori locali fino a quando non ne recuperi almeno 2 unità.
 Missili della Milizia
-Locura di Missili
-¡Es la hora de las tortas!
-Una flota exploradora Red Devil està desaparecida e se da por destruida. La enviaron a investigar un nuevo sistema de defensa di Missili della Milizia. ¿Puedes echar un vistazo por nosotros? Investiga en [LOCATION] e destruye esas plataformas por [REWARD] crediti.
+Missili impazziti
+É il momento di distruggere
+Una flotta di esplorazione Red Devil non risponde è riteniamo sia stata distrutta. era stata inviata per indagare su un nuovo sistema di difesa di Missili della Milizia. Puoi darci un'occhiata? Ricerca [LOCATION] e distruggi quelle piattaforme per [REWARD] crediti.
 Difese Violate
-La BOA de [LOCATION]
-Plataformas intervenidas
-La Milizia ha hackeado las plataformas de defensa de nuestra base de operaciones Avanzata en [LOCATION]. Ahora se estàn usando las armas contro la propia base. Destruye estas plataformas intervenidas e protege la base contro todos los atacantes.
-Doble defensa
-Enemigos por doquier
-Il abogado del diablo
-Tenemos que asumirlo: los Red Devil tienen un montón de enemigos. Ahí fuera nos estàn dando una paliza e estamos perdiendo demasiadas navi. Estàn teniendo lugar un par de refriegas cerca de aquí que podrían valerse de tu ayuda. Mantén esas navi principales con vida e nos rascaremos el bolsillo para darte [REWARD] crediti.
-La perdición de Krunk
-Jaque mate
-Remàtalo
+La BOA di [LOCATION]
+Le piattaforme sono state hackerate
+La Milizia ha violato le piattaforme di difesa della nostra base operativa Avanzata in [LOCATION]. Le armi difensive vengono ora utilizzate contro la base stessa. Distruggi queste piattaforme hackerate e proteggi la base dagli attaccanti.
+Doppia difesa
+Nemici dappertutto
+L'avvocato del diavolo
+Dobbiamo ammetterlo: i Red Devil hanno molti nemici. Là fuori ce le stanno dando e stiamo perdendo troppe navi. Siamo impegnati in un paio di combattimenti qui vicino dove potremmo aver bisogno del tuo aiuto. Mantieni in vita le navi principali e riempiremo le con [REWARD] crediti.
+La caduta di Krunk
+scacco matto
+Portalo via
 Il alto mando Red Devil està decidido a forzar al Capitano P. J. Krunk della Milizia a una confrontación final. Il mando cuenta con que Krunk reaccionarà si se destruyen suficientes Dreadstars milicianas. Te daremos le coordinate. ¡Destruye las Dreadstars e, si aparece Krunk, acaba con él para siempre!
 Astillero miliciano
 Destrucción del dique seco

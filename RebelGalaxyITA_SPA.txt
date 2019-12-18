@@ -3178,53 +3178,53 @@ Spedizione dei diamanti
 L'espresso dei diamanti
 Scorta di pietre preziose
 Uno dei nostri mercanti ha avuto problemi con i Murath quando ha cercato di vendere alcuni diamanti meteorici. Incontra [BOUNTYNAME], scorta [HIM] a [LOCATION] e [HELL] ti pagherà [REWARD] crediti.
-Presa fàcil
-Presa Koriana
-Sin defensa
-[BOUNTYNAME], Capitano Red Devil, [HES] en un aprieto. Sus aparatos electrónicos estàn desactivados e è una presa fàcil. Su posición està cerca de [LOCATION]. [HES_CAP] en disposición de ofrecer [REWARD] crediti a alguien que pueda proteger [HIS] flanco durante un reinicio rapido. Hay muchos Koriani en la zona.
-Trío atormentado
-Tres ratones ciegos
-Troica terrible
-Tenemos una fuerza di Spedizione que ha sido superada en potencia de fuego e està a la deriva en territorio Murath. [BOUNTYNAME], almirante de la flota Red Devil, quiere que todos sobrevivan. No preguntes por qué, tan solo hazlo e conseguiràs [REWARD] crediti.
-Corazzata anulado
-Hunde el Corazzata
-Merecido Koriano
-Il Corazzata Koriano SK-33 navega con dificultad por la zona de [LOCATION]. La Armata Red Devil ha establecido una recompensa de [REWARD] crediti por eliminarlo. Aunque el objetivo està indefenso, sus sistemi podrían volver a conectarse en cualquier momento. Se espera que lleguen refuerzos ligeros Koriani, pero recomendamos concentrar el fuego en el Corazzata.
-Tumor miliciano
+Bersaglio facile
+Cava Korian
+Senza difesa
+Il capitano Red Devil [BOUNTYNAME], [HES] è nei guai. I suoi sistemi elettronici sono fuori uso ed una facile preda. La sua posizione è vicino a [LOCATION]. [HES_CAP] è disposto a offrire [REWARD] crediti a chiunque riesca a proteggerlo [HIS] mentre riavvia i sistemi. Ci sono molti Korian nella zona.
+Trio Tormentato
+Tre Topi Ciechi
+Troica Terribile
+Abbiamo una forza di spedizione gravemente danneggiata che sta andando alla deriva nel territorio di Murath. L'ammiraglio [BOUNTYNAME], della flotta del Red Devil, vuole che tutti sopravvivano. Non chiederti il perché, fallo e otterrai [REWARD] crediti.
+Corazzata annientata
+Abbattere la corazzata
+Punizione Korian
+La Corazzata Korian SK-33 è alla deriva nell'area [LOCATION]. L'armata Red Devil ha istituito un premio di [REWARD] crediti per eliminarlo. Sebbene il bersaglio sia inerme, i suoi sistemi difensivi potrebbero riattivarsi in qualsiasi momento. Alcuni rinforzi Korian potrebbero arrivare, ma vi raccomandiamo di concentrare il fuoco sulla Corazzata.
+Tumore della Milizia
 Base C: [LOCATION]
-Extirpación de pólipos
-La Milizia se està extendiendo por este sistema como un càncer. Hemos recibido informes de que estàn construyendo una nueva base de ataque en [LOCATION]. Destrúyela antes de que la terminen. I refuerzos Red Devil estaràn disponibles en algún momento, pero es probable que la Milizia envíe también envíe los suyos propios.
-Ataque frontal
-Castigo al Gilda
-Hay que darle una lección al Gilda dei Mercenari. Aunque respetamos al Gilda, demasiados Red Devil estàn cayendo presa del aventurismo Mercenario. Hemos establecido una gran recompensa por la cabeza de [BOUNTYNAME]. Acaba con [HE] en un ataque frontal a las oficinas del Gilda.
-Emboscada al puesto de Avanzata
-Acecho de mercaderes
-Bucaneros descarados
-I comerciantes que entran e salen del puesto de Avanzata de [LOCATION] son gordos, ricos e vagos: ¡nuestros favoritos! Ve allí e coge lo que te corresponde, es decir, todo. Pero, cuidado, si los mercaderes mueren, es probable que tengas que enfrentarte a la ira de la central de mercenarios de élite del puesto de Avanzata.
-Introducción a la piratería VII
-Objetivo secundario
-Debacle en la chatarra
-Intromisión miliciana
-La Milizia local està frustrando nuestros esfuerzos alrededor dei campos de chatarra espacial de [LOCATION]. En cualquier caso, nos han avisado de un objetivo rico demasiado jugoso como para resistirse. Puede que este objetivo no esté en le coordinate proporcionadas cuando llegues, pero dale uno o dos minutos. Prepàrate para la interdicción della Milizia.
-Introducción a la piratería VIII
-Locura en los campos de minas
-Dulce botín
-Minas milicianas
-Unos comerciantes se han instalado en un campo de minas cerca de [LOCATION]. Creen que esto los protegerà Red Devil, ¡pero se equivocan! ¡Ve a por ellos e a por su dulce botín!
-Una caja peligrosa
-Competidores por el carico
-Cargamento inestable
-Se oyen rumores de que hay un carico muy valioso e peligroso flotando cerca de [LOCATION]. Acércate a este carico con cuidado, ya que puede haber destruido a su anterior dueño. Estos rumores han llegado a otras facciones, así que prepàrate para luchar contro tus competidores. Devuélveles el premio a los coleccionistas Red Devil en la stazione de [STATION] por [REWARD] crediti.
-Caravana de esclavas
-Esclavas oriones
-Esclavas en el espacio
-Una caravana que transporta esclavas oriones està por la zona de [LOCATION]. Intercéptala e desvía este atractivo carico a [STATION] por una recompensa de [REWARD] crediti. Por desgracia, van a entregar a estas chicas a [BOUNTYNAME], almirante della Milizia local. No se alegrarà e seguramente mandarà interceptores al primer indicio de problemas.
-Entrega no autorizada
-Cargamento prohibido
-Mata a Krunk
-Il nuevo juguete de Krunk
-Ocúpate de Krunk
-Parece que el Capitano della Milizia P. J. Krunk tiene un nuevo juguete, un destructor nuevo e reluciente, e va a por todas contro los Red Devil. Le estamos lanzando todo lo que tenemos, pero no se muere. Se estàn enfrentando a él ahora en la zona de [LOCATION], si es que puedes ir a ayudar.
+Rimozione dei polipi
+La Milizia si sta diffondendo in questo sistema come un cancro. Abbiamo ricevuto notizie che stanno costruendo una nuova base di attacco in [LOCATION]. Distruggila prima che sia terminata. I rinforzi Red Devil saranno disponibili a breve, ma è probabile che anche la Milizia mandi i propri.
+Attacco frontale
+Vendetta alla Gilda dei Mercenari
+Devi dare una lezione alla Gilda dei Mercenari. Sebbene rispettiamo la Gilda, troppi Red Devil stanno cadendo a causa dell'aventurismo mercenario. Abbiamo stabilito una grande ricompensa per la testa di [BOUNTYNAME]. Uccidilo con un un attacco frontale ai [HE] uffici nella Gilda.
+Agguato all'avamposto
+Predoni mercantili
+Incauti pirati
+I commercianti che entrano ed escono dall'avamposto di [LOCATION] sono grassi, ricchi e pigri: i nostri preferiti! Vai lì e prendgli ciò che vuoi, cioè tutto. Ma fai attenzione, se i mercanti dovessero muorire, probabilmente dovrai affrontare l'ira del quartier generale mercenario d'élite dell'avamposto.
+Introduzione alla pirateria VII
+Obiettivo secondario
+Debacle dei Detriti
+Intrusione della Milizia
+La Milizia locale sta interferendo pesantemente nelle nostre sortite nei campi di rottami spaziali di [LOCATION]. In ogni caso, siamo stati informati di un obiettivo ricco e troppo succoso per lasciarcelo sfuggire. Questo obiettivo potrebbe non essere esattamente nelle coordinate fornite, ma si troverà nelle vicinanze. Tieniti pronto per l'arrivo della Milizia.
+Introduzione alla pirateria VIII
+Follia nei campi minati
+Succulento bottino
+Miniere della Milizia
+I commercianti si sono stabiliti vicino ad un campo minato a [LOCATION]. Pensano che questo li proteggerà Red Devil, ma si sbagliano! Vai da loro e prendi il loro succulento bottino!
+Una scatola pericolosa
+Concorrenti per il carico
+Carico instabile
+Si dice che ci sia un carico molto prezioso e pericoloso alla deriva vicino a [LOCATION]. Avvicinati a questo carico con attenzione, poiché potrebbe aver già distrutto il suo precedente proprietario. Queste voci hanno raggiunto altre fazioni, quindi preparati a combattere altro concorrenti per il carico. Restituisci il carico ai collezionisti Red Devil nella stazione [STATION] per [REWARD] crediti.
+Carovana di schiavi
+Schiavi di Orione
+Schiavi nello spazio
+Una carovana che trasporta schiavi di Orione si trova nell'area [LOCATION]. Intercettala e porta questo prezioso carico su [STATION] per ottenere un premio da [REWARD] crediti. Sfortunatamente, devono consegnare questi schiavi all'ammiraglio della Milizia locale,  [BOUNTYNAME]. Al primo segnale di difficoltà non sarà felice e sicuramente invierà grandi rinforzi.
+Consegna non autorizzata
+Carico proibito
+Uccidi Krunk
+Il nuovo giocattolo Krunk
+Occupati di Krunk
+Sembra che il Capitano della Milizia P.J. Krunk abbia un nuovo giocattolo, un nuovo scintillante distruttore, e vada in giro ad uccidere Red Devil. Stiamo gettando tutto ciò che abbiamo, ma non muore. Lo stanno affrontando ora nell'area [LOCATION], se puoi andare in aiuto.
 Hora de explosiones
 Contra los Red Devil
 Destruye un poco

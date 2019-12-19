@@ -3378,85 +3378,85 @@ Niente da fare
 Lo Spettro è inerte e non ci sono notizie su Sandar...
 L'entità..., che è ora integrata alla tua nave, ha rilevato un frammento del suo Reliquiario in questo sistema solare. Ricerca nell'area.
 Aspetto ancora le informazioni promesse da Sandar...
-Sandar ha concertado un encuentro con Zenya Kerr, un contacto della Milizia que tal vez pueda arrojar algo de luz acerca dei tratos de Juno con la Milizia local.
-Otro intento
-Tu encuentro inicial con Zenya no fue según lo planeado. Tal vez Sandar pueda concertar otra reunión.
-Un lugar tranquilo
-HABLA CON ZENYA
-Reúnete con Zenya en [LOCATION] para elaborar un plan para rescatar a Juno.
-Ármate hasta los dientes
-Alcanza un valor neto de 150 000 crediti e equipa tu nave para aliarte temporalmente con la Milizia e liberar a Juno.
-Equipada
-Ataque a la refinería
-Reúnete con Zenya e una fuerza de ataque miliciana para destruir una refinería de drogas dei DoubleJack. Esto debería alborotar la actividad dei DoubleJack e dejar expuestos a los miembros de alto rango.
-Tras la batalla
-Reúnete con Zenya en [LOCATION] e habla de las consecuencias del ataque a la refinería.
+Sandar ha organizzato un incontro con Zenya Kerr, un contatto della Milizia che potrebbe essere in grado di far luce sui rapporti di Juno con la Milizia locale.
+Un altro tentativo
+Il tuo primo incontro con Zenya non è andato come previsto. Forse Sandar può organizzare un altro incontro.
+Un posto tranquillo
+PARLA CON ZENYA
+Incontra Zenya a [LOCATION] per organizzare un piano per salvare Juno.
+Armati fino ai denti
+Raggiungi un patrimonio netto di 150.000 crediti e equipaggia la tua nave per allearti temporaneamente con la Milizia e liberare Juno.
+Equipaggiato
+Attacco alla raffineria
+Incontra Zenya e una flotta d'attacco della Milizia per distruggere una raffineria di droga DoubleJack. Ciò dovrebbe fiaccare l'attività di DoubleJack ed esporre membri di alto livello.
+Dopo la battaglia
+Incontra Zenya a [LOCATION] e discuti delle conseguenze dell'attacco alla raffineria.
 Il topo
-Zenya te està pasando coordinate de grupos de vuelo identificados dei DoubleJack con objetivos muy valiosos. Captura a un Capitano con información... aunque tal vez haya otra alternativa.
-La presa
-Lleva a tu rehén dei DoubleJack junto a Zenya en [LOCATION].
-Puñalada trapera
-HABLA CON JUSTER
-Reúnete con Juster, pirata dei DoubleJack, en un bar de [LOCATION]. Prepàrate para hablar de traicionar a la Milizia a cambio de la liberación de Juno.
-Intento de rescate
-Aiuta la Milizia a atacar una base dei DoubleJack para asegurar la libertad de Juno.
-Una sorpresa desagradable
-Aiuta i bribones DoubleJack a contrarrestar un ataque della Milizia para asegurar la libertad de Juno.
-La reunión
-HABLA CON JUNO
-Tras asegurar la libertad de Juno, te ha pedido que te reúnas con ella en [LOCATION]. Es hora de averiguar qué està pasando.
-Fin de la demo
-Reúnete con Juno en [SYSTEM]
-REÚNETE CON JUNO
-Adquiere un Unità Iperluce e reúnete con Juno en el Sistema [SYSTEM].
-REÚNETE CON VORIS
-Juno te ha enviado a reunirte con Voris Kyle, un "coleccionista de rarezas", en su puesto de Avanzata de Hedonville. Puede que conozca el paradero de uno dei fragmentos del Reliquiario de Trell.
-Chip de identificación
-A cambio del frammento de Reliquiario que tiene en su poder, Voris Kyle exige un artefacto del culto dei Figli della Luce. Como parte del plan para robar este artefacto, tendràs que conseguir un chip de identificación de una nave dei Figli della Luce. Hazte con el de una de las navi dei puntos de ruta marcados.
-Entrega el chip
-Vuelve con el chip de identificación dei Figli della Luce junto a Voris Kyle, en Hedonville.
-Habla con Voris
-Habla con Voris Kyle en Hedonville.
-Il monasterio
-Acércate al monasterio dei Figli della Luce con la ayuda del chip de identificación que has adquirido. Cuando estés cerca, se lanzarà la càpsula de ocultación de Voris e desplegarà el mech de infiltración dentro del monasterio. Cuando haya recuperado el Fiala di Ephesis, el mech saldrà al espacio, donde lo recuperaràs con tu sistema tractor e se lo devolveràs a Voris.
-Entrega el Vial
-Regresa con el Fiala di Ephesis junto a Voris Kyle, en Hedonville.
-Nada que hacer...
-Reúnete con Juno en [LOCATION]
-Trell necesita Hexxite para completar una mejora del Scanner que le permitirà detectar fragmentos fuera del sistema. Pídele consejo a Juno sobre dónde adquirirla.
-Reúnete con Trag Jansom en [SYSTEM]
-REÚNETE CON TRAG
-Trell necesita Hexxite para completar una mejora del Scanner que le permitirà detectar fragmentos fuera del sistema. Juno te ha sugerido que te reúnas con Trag Jansom, del Consorcio de Mineros de la Caldera, en el Sistema [SYSTEM].
-Consigue Hexxite
-A cambio de una buena suma, Trag Jansom te ha dado le coordinate de una instalación minera de carroñeros Murath donde puedes encontrar Hexxite, ya sea extrayéndola o robàndola. Necesitaràs 3 toneladas.
-Recupera un frammento en [SYSTEM]
-Al utilizar su nueva tecnología de escaneo fuera del sistema, Trell ha detectado un frammento de su Reliquiario en el Sistema [SYSTEM], en un campo de Tetraedrite.
-Investiga la anomalía
-Trell ha detectado una anomalía espacial e una señal de emergencia codificada el Sistema [SYSTEM]. Investiga inmediatamente.
-Un frammento en movimiento
-Trell ha detectado otro frammento, que està en movimiento cerca de [LOCATION], en el Sistema [SYSTEM]. Investiga.
-Juno se ha puesto en contacto contigo para pedirte que te reúnas urgentemente con ella en [LOCATION], en el Sistema [SYSTEM].
-Reagrupamiento
-Tras las complicaciones en torno al proyecto de la puerta della Milizia, es hora de descansar e reagruparse.
+Zenya ti sta trasmettendo le coordinate degli stormi DoubleJack identificati come obiettivi prioritari. Cattura un capitano per estorcergli informazioni... non credo ci sia un'altra alternativa.
+Catturata
+Porta il tuo ostaggio DoubleJack a Zenya in [LOCATION].
+Doppio gioco
+PARLA CON JUSTER
+Incontra Juster, pirata dei DoubleJack, in una bar a [LOCATION]. Offriti di tradire la Milizia in cambio della liberazione di Juno.
+Tentativo di salvataggio
+Aiuta la milizia che sta attaccando una base DoubleJack per cercare di liberare Juno.
+Una spiacevole sorpresa
+Aiuta i bastardi DoubleJack a contrastare un attacco della Milizia per ottenere la libertà di Juno.
+L'incontro
+PARLA CON JUNO
+Dopo aver assicurato la libertà a Juno, ti ha chiesto di incontrarla a [LOCATION]. È tempo di scoprire cosa sta succedendo.
+Fine della demo
+Incontra Juno in [SYSTEM]
+INCONTRATI CON JUNO
+Acquisisci un'unità Iperluce e incontra Juno nel sistema [SYSTEM].
+INCONTRATI CON VORIS
+Juno ti ha inviato ad incontrare Voris Kyle, un "collezionista di stranezze", nel suo avamposto di Hedonville Avanzata. Potrebbe sapere dove si trova uno dei frammenti del Reliquiario di Trell.
+Chip di identificazione
+In cambio del frammento del reliquiario in suo possesso, Voris Kyle esige un manufatto del culto dei Figli della Luce. Come parte del piano per rubare questo dispositivo, dovrai ottenere un chip di identificazione da una nave dei Figli della Luce. Recupera uno da una delle navi nei punti di passaggio contrassegnati
+Consegna il chip
+Riporta il chip identificativo dei Figli della Luce a Voris Kyle, a Hedonville.
+Parla con Voris
+Parla con Voris Kyle a Hedonville.
+Il monastero
+Avvicinati al monastero dei Figli della Luce con l'aiuto del chip identificativo che hai acquisito. Quando sarai vicino, verrà lanciata la capsula di occultamento di Voris e il mech di infiltrazione verrà dispiegato all'interno del monastero. Dopo aver recuperato la Fiala di Ephesis, il mech tornerà nello spazio, lì lo recupererai con il tuo sistema di attrazione e poi lo porterai a Voris.
+Consegna la Fiala
+Riporta la Fiala di Ephesis a Voris Kyle, a Hedonville.
+Niente da fare...
+Incontra Juno in [LOCATION]
+Trell ha bisogno di Hexxite per completare un aggiornamento dello scanner che gli consentirà di rilevare frammenti all'esterno del sistema. Chiedi a Juno un consiglio su dove acquistarlo.
+Incontra Trag Jansom a [SYSTEM]
+INCONTRATI CON TRAG
+Trell ha bisogno di Hexxite per completare un aggiornamento dello scanner che gli consentirà di rilevare frammenti all'esterno del sistema. Juno ha suggerito di incontrare Trag Jansom, del consorzio minerario Caldera, nel sistema [SYSTEM].
+Ottieni l'Hexxite
+In cambio di una grossa somma, Trag Jansom ti ha dato le coordinate di una struttura mineraria degli Scavenger Murath dove l'Hexxite può essere recuperata, estraendola o rubandola. Ne avrai bisogno 3 tonnellate.
+Recupera un frammento dal [SYSTEM]
+Usando la sua nuova tecnologia di scansione extra-sistema, Trell ha rilevato un frammento del Reliquiario nel Sistema [SYSTEM], in un campo Tetraedrite.
+Analizzare l'anomalia.
+Trell ha rilevato un'anomalia spaziale e un segnale di emergenza codificato nel Sistema [SYSTEM]. Indaga immediatamente.
+Un frammento in movimento
+Trell ha rilevato un altro frammento, che si sta avvicinando a [LOCATION], nel sistema [SYSTEM]. Indaga.
+Juno ti ha contattato per chiederti di incontrarla urgentemente in [LOCATION], nel sistema [SYSTEM].
+Raggruppamento
+Dopo le complicazioni legate al progetto del portale della Milizia, è tempo di riposare e riorganizzarsi.
 INCONTRA LA MILIZIA
 Incontro con la Milizia
-Un representante della Milizia se ha puesto en contacto contigo por una oportunidad posiblemente lucrativa. Sin embargo, no se deshizo en muchos detalles. Ha proporcionado coordinate para una ubicación en el Sistema [SYSTEM].
+Un rappresentante di Milizia ti ha contattato per un'opportunità che potrebbe essere redditizia. Tuttavia, è stato molto vago sui dettagli. Ha fornito le coordinate di una posizione nel sistema [SISTEMA].
 Viaggia verso Caronte
-Entra en el Sistema Caronte a través de la Portale Iperluce que ha abierto Trell.
+Entra nel sistema Caronte attraverso il Portale Iperluce che Trell ha aperto.
 Attraverso il Portale
 Incontro con i Viriax
 L'Ultimo Frammento
-Il último frammento del Reliquiario de Trell està en el Sistema Caronte, pero las interferencias impiden que lo pueda localizar de forma precisa a larga distancia. Investiga las posibles ubicaciones que ha identificado.
+L'ultimo pezzo del Reliquiario Trell si trova nel sistema Caronte, ma interferenze ne impediscono la localizzazione precisa da lunghe distanze. Indaga sulle possibili posizioni che hai identificato.
 La Resa dei Viriax
 Lascia Caronte
-Sal de Caronte e vuelve al Sistema [SYSTEM] lo antes posible.
+Lascia Caronte e torna al sistema [SYSTEM] il prima possibile.
 Il Portale
-Trell se ha puesto en contacto contigo a través de una micropuerta e te ha proporcionado le coordinate en las que aparecerà la puerta Viriax. Ve deprisa a la ubicación en el Sistema [SYSTEM].
+Trell ti ha contattato tramite un microportale e ti ha fornito le coordinate in cui apparirà il portale Viriax. Vai rapidamente alla posizione nel sistema [SYSTEM].
 Incontra Juno.
 ELENCO TAGLIE SCARICATO
-[ELENCO TAGLIE] |CN2143|\n\nLa siguiente base de datos contiene el listado de recompensas en vigor e las últimas ubicaciones de objetivos recientes. Siguen datos específicos.\n\nInformación altamente confidencial.
+[ELENCO TAGLIE] |CN2143|\n\nIl seguente database contiene l'elenco delle attuali ricompense e le posizioni degli obiettivi più recenti. Seguiranno indicazioni più specifiche.\n\nInformazioni altamente riservate.
 DATABASE FINANZIARIO INTERCETTATO
-[DATABASE FINANZIARIO] |FN16423|\n\nLa siguiente base de datos contiene información financiera actual sobre productos en las estaciones e conocimientos de embarque. La información sobre los precios se considera actualizada a fecha de 1.567.382.46. Información confidencial.
+[DATABASE FINANZIARIO] |FN16423|\n\nIl seguente database contiene le informazioni del pezzo attuale dei prodotti nelle stazioni e nei centri di stoccaggio. Le informazioni sui prezzi sono aggiornate al 1567.382.46. Informazioni riservate
 MESSAGGIO INTERCETTATO
 [TRASMISSIONE PARZIALE] ...non negoziabile. Avevamo un accordo e spero che tu lo mantenga. La merce in questione si trova nelle coordinate fornite, vicino a [LOCATION]. Qaunto raccogli dipende da te e speriamo che tu ci trasferisca immediatamente il pagamento... [FINE TRASMISSIONE]
 [TRASMISSIONE PARZIALE] ...la consegna è pronta. Effettua lo scambio alle coordinate vicino a [LOCATION]. Stai fuori dai guai nel quartiere ... [FINE TRASMISSIONE]

@@ -3324,60 +3324,60 @@ Obiettivo: [BOUNTYNAME_LAST]
 Colpo mortale
 Hai sentito della battaglia che si sta svolgendo vicino a [LOCATION]? Non ti chiediamo di parteciparvi, ma ci servirebbe qualcuno per intrufolarci e uccidere [BOUNTYNAME], comandante di Milizia. Il Cartello Red Devil sarà lieto di pagarti [REWARD] credito per la gestione di questo assassinio fatto con discrezione.
 Lo [HIMSELF] comandante [BOUNTYNAME] sta conducendo un attacco contro le forze Red Devil vicino a [LOCATION]. Sfortunatamente, crediamo che questa battaglia sia già persa, ma [BOUNTYNAME] è stato lasciato in una posizione vulnerabile. Entra ed elimina [HIM]! Se [HE] finisci, otterrai [REWARD] crediti.
-I Red Devil irregolari stanno combattendo per la propria sopravvivenza nell'area [LOCATION]. Non possiamo mandare alcuna nave, ma stiamo offrendo [REWARD] crediti a chi sarà in grado di fornire assistenza. In particolare, vogliamo che il cacciatorpediniere del comandante [BOUNTYNAME] sia distrutto. Coordinate disponibili dopo aver accettato.
-Amigos en apuros
-Conflagración Koriana
-No sabemos qué relación tienes con el Cartello Red Devil, ¡pero seguro que odias aún màs a la escoria Koriana! Haznos e favor e rescata a [BOUNTYNAME]. [HES_CAP] en apuros cerca de [LOCATION] e pagarà [REWARD] crediti por un poco de ayuda.
-[BOUNTYNAME], honorable Capitano Red Devil, necesita nuestra ayuda. Aparentemente, las fuerzas korianas [HIM] han acorralado cerca de [LOCATION]. Darà [REWARD] crediti a quien pueda ayudar.
-Se està librando una batalla entre la flota Koriana e la Red Devil cerca de [LOCATION]. [BOUNTYNAME] hace este llamamiento a todos los aliados: ¡Uníos a nosotros en la victoria! Si triunfamos, recibiràs [REWARD] crediti.
-Has recibido un messaggio críptico de "Cofax" en el que te pedía que te reunieras con ella en [LOCATION], una base miliciana en el Sistema [SYSTEM].
-REÚNETE CON COFAX
-Tartana de batalla
-Cofax te ha convencido para que ayudes con la escolta de una nave recuperada desde un campo de chatarra espacial cerca de [STATION] hasta el muelle de reparaciones de [LOCATION]. Parece que recibiràs un pellizco de unos [REWARD] crediti por este trabajo.
-Reúnete con Cofax
-Cofax tiene otro trabajo que te podría interesar. Te està esperando en [LOCATION], una base della Milizia en el Sistema [SYSTEM].
-Deposito de armas
-Reúnete con Cofax en un depósito de armas pirata e destrúyelo.
-Ataque de Corazzata
-Reúnete con Cofax en el astillero pirata e destruye el Corazzata.
-Reúnete con Orzu
-REÚNETE CON ORZU
-Reúnete con Orzu en Rust City e descubre lo que tiene que decirte sobre tu tía Juno. ¿Qué demonios ocurre?
-Localiza a Sandar
-REÚNETE CON SANDAR
-Orzu mencionó a Sandar, el socio contrabandista de Juno, que, aparentemente, anda por la stazione de [LOCATION]. Tal vez tenga información sobre el paradero de Juno.
-Negocios sucios
-Has accedido a localizar e eliminar a John Muerto, un pirata DoubleJack que se està entrometiendo en el negocio de contrabando de Sandar.
-Narco-Cola para Sandar
-Lleva 1 unidad de Narco-Cola a [LOCATION], donde Sandar recibirà la entrega e, a cambio, te darà información.\n\nLa Narco-Cola es ilegal en muchos sitios e es màs probable encontrarla en los mercados de estaciones de forestieri o a bordo de navi pirata.
-Asuntos sucios
-HABLA CON SANDAR
-Cuando hayas completado la misión, es hora de volver junto a Sandar, en la stazione de [STATION], para ver qué información tiene para ti.
-Il intercambio
-Orzu te ha dado 500 crediti para pagar el carico de whisky Greel que lleva Branson Cole. Comunícate con Branson e haz el intercambio. Luego, regresa junto a Orzu.
-Entrega el whisky
-Cuando hayas recibido el carico de whisky, entrégaselo a Orzu.
-Vuelve junto a Orzu
-HABLA CON ORZU
-Una vez entregado el carico de whisky, reúnete con Orzu en Rust City para reclamar tu recompensa e averiguar màs cosas sobre tu tía Juno.
-Vuelve junto a Orzu a Rust City. Tal vez puedas descubrir la función del Spettro.
-Il "investigador"
-VISITA EL LABORATORIO
-Orzu te ha dado indicaciones para encontrar a un investigador en la stazione de [LOCATION], que puede ser capaz de descubrir el propósito del Spettro.
-Omnium para Xell
-Xell necesita 3 toneladas de Omnium para su investigación, a cambio de una evaluación del Spettro. Ha proporcionado coordinate de lugares donde se puede extraer e también la ubicación de unos comerciantes que lo tienen en cantidades grandes.
-Entrega el Omnium
-Cuando hayas conseguido tres toneladas de Omnium, entrégaselo a Xell.
-Habla con Xell
-Cuando hayas entregado el Omnium, reúnete con Xell para evaluar su progreso con lo Spettro.
-Operación de limpieza
-Has accedido a destruir un escondrijo de contenedores de almacenaje por Orzu. ¿Qué podría salir mal?
-Todo organizado
-Cuando hayas completado la misión, es hora de volver junto a Orzu en Rust City e localizar a Juno.
-Nada que hacer
-Lo Spettro està inerte e no hay noticias de Sandar...
-La... entidad, que ahora està integrada en tu nave, ha detectado un frammento de su Reliquiario en este sistema solar. Investiga la zona.
-Todavía a la espera de la información prometida por Sandar...
+I Red Devil irregolari stanno combattendo per la propria sopravvivenza nell'area [LOCATION]. Non possiamo mandare alcuna nave, ma stiamo offrendo [REWARD] crediti a chi sarà in grado di fornire assistenza. In particolare, vogliamo che il distruttore del comandante [BOUNTYNAME] sia abbattuto. Coordinate disponibili dopo aver accettato.
+Amici nei guai
+Conflagrazione Korian
+Non sappiamo in che rapporti sei con il cartello Red Devil, ma sicuramente odi di più la feccia di Korian! Facci un favore e salva [BOUNTYNAME]. [HES_CAP] in difficoltà vicino a [LOCATION] e pagheranno [REWARD] crediti per un piccolo aiuto.
+L'onorevole capitano Red Devil [BOUNTYNAME], ha bisogno del nostro aiuto. Apparentemente, le forze Korian [HIM] hanno messo alle strette vicino a [LOCATION]. Darà [REWARD] credito a chi lo può aiutare.
+È in corso una battaglia tra la flotta Korian e i Red Devil vicino a [LOCATION]. [BOUNTYNAME] fa appello a tutti gli alleati: unisciti a noi nella vittoria! Se avremo successo, riceverai [REWARD] crediti.
+Hai ricevuto un messaggio criptico da "Cofax" in cui ti ha chiesto di incontrarla a [LOCATION], una base della Milizia nel Sistema [SYSTEM].
+INCONTRATI CON COFAX
+Battaglia Tartana
+Cofax ti ha convinto ad aiutarla con la scorta di una nave recuperata da un campo di scarto spaziale vicino a [STATION] al molo di riparazione [LOCATION]. Sembra che riceverai un po' di [REWARD] crediti per questo lavoro.
+Incontrati con Cofax
+Cofax ha un altro lavoro che potrebbe interessarti. Ti sta aspettando a [LOCATION], una base Milizia nel sistema [SYSTEM].
+Deposito di armi
+Incontra Cofax in un deposito di armi pirata e distruggilo.
+Attacco della corazzata
+Incontra Cofax nel cantiere dei pirati e distruggi la Corazzata.
+Incontrati con Orzu
+INCONTRATI CON ORZU
+Incontra Orzu a Rust City e scopri cosa deve dirti di tua zia Juno. Che diavolo sta succedendo?
+Trova Sandar
+INCONTRATI CON SANDAR
+Orzu ha menzionato Sandar, partner di contrabbando di Juno, che pare stia passando per la stazione [LOCATION]. Potresti avere informazioni sulla posizione di Juno da lui.
+Affari sporchi
+Hai accettato di localizzare ed eliminare John Muerto, un pirata DoubleJack che si sta intromettendo nell'attività di contrabbando di Sandar.
+Narco-Cola per Sandar
+Porta 1 unità di Narco-Cola a [LOCATION], dove Sandar ti aspetta per la consegna e, in cambio, ti fornirà informazioni. \n\nLa Narco-Cola è illegale in molti luoghi ed è più probabile che si trovi nei mercati delle stazioni esterne o a bordo di navi pirata.
+Azioni proibiti
+PARLA CON SANDAR
+Dopo aver completato la missione, è tempo di tornare da Sandar, presso la stazione [STATION], per vedere quali informazioni ha per te.
+Lo scambio
+Orzu ti ha dato 500 crediti per pagare il whisky Greel che Branson Cole sta trasportando. Contatta Branson ed effettua lo scambio. Quindi, torna da Orzu.
+Consegna il whisky
+Dopo aver ricevuto il carico di whisky, consegnalo a Orzu.
+Torna da Orzu
+PARLA CON ORZU
+Una volta consegnato il carico di whisky, incontra Orzu nella città di Rust per richiedere la tua ricompensa e scoprire di più su tua zia Juno.
+Rientra con Orzu a Rust City. Forse puoi scoprire la funzione dello Spettro.
+Il "ricercatore"
+VISITA IL LABORATORIO
+Orzu ti ha dato indicazioni per trovare un ricercatore presso la stazione [LOCATION], che potrebbe essere in grado di rilevarti a cosa serve lo Spettro.
+Omnium per Xell
+Xell ha bisogno di 3 tonnellate di Omnium per la ricerca, in cambio di una valutazione dello Spettro. Ha fornito le coordinate dei luoghi in cui è possibile estrarne e anche la posizione di alcuni commercianti che ne hanno in grandi quantità.
+Consegna l'Omnium
+Quando hai tre tonnellate di Omnium, dallo a Xell.
+Parla con Xell
+Dopo aver consegnato l'Omnium, incontra Xell per valutare i suoi progressi con lo Spettro.
+Operazione di pulizia
+Hai accettato di distruggere un deposito di stoccaggio per container per Orzu. Cosa potrebbe andare storto?
+Tutto organizzato
+Dopo aver completato la missione, è tempo di tornare da Orzu nella città di Rust e localizzare Juno.
+Niente da fare
+Lo Spettro è inerte e non ci sono notizie su Sandar...
+L'entità..., che è ora integrata alla tua nave, ha rilevato un frammento del suo Reliquiario in questo sistema solare. Ricerca nell'area.
+Aspetto ancora le informazioni promesse da Sandar...
 Sandar ha concertado un encuentro con Zenya Kerr, un contacto della Milizia que tal vez pueda arrojar algo de luz acerca dei tratos de Juno con la Milizia local.
 Otro intento
 Tu encuentro inicial con Zenya no fue según lo planeado. Tal vez Sandar pueda concertar otra reunión.

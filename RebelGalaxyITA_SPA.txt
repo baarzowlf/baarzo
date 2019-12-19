@@ -3278,46 +3278,46 @@ Dobbiamo ammetterlo: i Red Devil hanno molti nemici. Là fuori ce le stanno dand
 La caduta di Krunk
 scacco matto
 Portalo via
-Il alto mando Red Devil està decidido a forzar al Capitano P. J. Krunk della Milizia a una confrontación final. Il mando cuenta con que Krunk reaccionarà si se destruyen suficientes Dreadstars milicianas. Te daremos le coordinate. ¡Destruye las Dreadstars e, si aparece Krunk, acaba con él para siempre!
-Astillero miliciano
-Destrucción del dique seco
-Il origen de las Dreadstar
-I agentes de inteligencia Red Devil han localizado un dique seco que produce navi de clase Dreadstar para la Milizia. Destruir esas instalaciones nos facilitaría mucho la vida. Dirígete a la zona de [LOCATION] del Sistema [SYSTEM] e elimina todas las instalaciones.
-Rivales dei DoubleJack
-[BOUNTYNAME] en [LOCATION]
-¡Intrusos!
-I tontos dei DoubleJack, liderados por [BOUNTYNAME], se estàn aproximando a nuestro territorio, cerca de [LOCATION]. Il Cartello Red Devil te pagarà con gusto [REWARD] crediti por ocuparte de esta molestia.
-Castigo Red Devil
-Venganza en [LOCATION]
-Ojo por ojo
-Un grupo de ataque dei DoubleJack acaba de eliminar un destructor Red Devil cerca de [LOCATION]. ¡Queremos venganza! Ademàs de una recompensa de [REWARD] crediti, sospechamos que habrà un carico valioso en la zona.
-Recuperación de contrabando
-Destrucción de datos
-Encubrimiento de [CARGO]
-Las fuerzas della Milizia estàn investigando 3 unità di [CARGO] cerca de [LOCATION], e los datos de estos contenedores pueden llevarles hasta nuestra ubicación. Pagaremos [REWARD] crediti si puedes recuperar el carico de [CARGO] e llevarlo de vuelta a [STATION]. Ojo: si puedes evitarlo, no te enfrentes a las fuerzas milicianas.
-¡Secuestra al Capitano Krunk!
-I diplomàticos Red Devil hanno bisogno di un elemento útil para negociar, e ese elemento serà el famoso Capitano P. J. Krunk. Sabemos que pilota una fregata cerca de [LOCATION]. Il maldito parece casi indestructible, así que reviéntale la nave e acabarà flotando en el espacio. Si lo llevas a [STATION], obtendràs [REWARD] crediti.
-Introducción a la piratería I
-Dinero fàcil
-Nave mercante en [LOCATION]
-¿Querías ser pirata? ¡Esta es tu oportunidad! Sabemos de un mercader que viaja cerca de [LOCATION]. [HES_CAP] casi sin defensas. Tus únicas recompensas seràn tu satisfacción e el carico que puedas conseguir. ¡No dejes supervivientes!
-Posizione: [LOCATION]. Objetivo: mercante ligero. Recompensa: cualquier carico. No dejes supervivientes.
-Il benévolo Cartello Red Devil es generoso con sus amigos. Te ofrecemos le coordinate de un mercante poco protegido que pasa por [LOCATION]. Puedes quedarte con el carico.
-Introducción a la piratería II
-Caravana en [LOCATION]
-Saqueo de convoy
-Parece que tenemos un gran convoy mercante cerca de [LOCATION]. Ahora mismo estamos un poco ocupados con cosas de "pirati", pero, si buscas un botín fàcil, hazle una visita...
-Un convoy de tres mercantes està pasando por la zona de [LOCATION]. Ojo: se cree que puede haber una fregata miliciana en la zona.
-Aviso a todos los capitanes indipendenti: Hemos localizado una caravana mercante cargada de jugosos botines que viaja cerca de [LOCATION]. No te olvides de las fuerzas milicianas cuando reclames tu premio.
-Introducción a la piratería III
-Navegación a estima
-Botín de magnate
-[BOUNTYNAME], notable magnate della Gilda dei Mercanti, està cerca de [LOCATION] con una fuerte escolta miliciana. Pronóstico: ¡Buen botín!
-Un objetivo de primera se ha presentado en la zona de [LOCATION]. A [BOUNTYNAME], magnate della Gilda dei Mercanti, se [HIS] conoce por llevar cargamentos inusuales. Tendràs que apretarle las tuercas para que entregue el botín. Ademàs, [HIS] ayudan muchos aliados poderosos.
-Nos ha llegado información de que [BOUNTYNAME] està transportando un carico muy valioso a través della zona de [LOCATION]. [HE_CAP] va detràs una buena escolta, pero el carico debería compensar el esfuerzo.
-[CARGO] de contrabando
-Tenemos un "paquete" que nos gustaría que llegara a [LOCATION] intacto. No es que tengas que saberlo, pero [COUNT] unità di [CARGO] se iràn directas a tu stiva. Llévalo a [LOCATION] e ganaràs [REWARD] crediti.
-Entrega de [CARGO] de contrabando
+L'Alto Comando Red Devil è determinato a costringere il Capitano P.J. Krunk della Milizia a un confronto finale. Il comando dice che Krunk reagirà se verranno distrutte abbastanza Dreadstars della milizia. Ti daremo le coordinate. Distruggi le Dreadstars e, se appare Krunk, eliminalo una volta per tutte!
+Cantiere navale della milizia
+Distruzione del bacino di carenaggio
+L'origine della Dreadstar
+Gli agenti dell'intelligence Red Devil hanno localizzato un bacino di carenaggio che produce navi di classe Dreadstar per la Milizia. Distruggere queste strutture renderebbe le nostre vite molto più semplici. Vai all'area [LOCATION] del sistema [SYSTEM] e distruggi tutte le installazioni.
+Rivali dei DoubleJack
+[BOUNTYNAME] in [LOCATION]
+Intrusi!
+Gli idoti DoubleJack, guidati da [BOUNTYNAME], si stanno avvicinando al nostro territorio, vicino a [LOCATION]. Il Cartello Red Devil sarà lieto di pagarti [PREMIO] credito per sbarazzartene.
+Vendetta Red Devil
+Vendetta in [LOCATION]
+Occhio per occhio
+Un gruppo d'attacco DoubleJack ha appena eliminato un cacciatorpediniere Red Devil vicino a [LOCATION]. Vogliamo vendetta! Oltre alla ricompensa di [REWARD] crediti, presumiamo che ci sarà un carico prezioso nell'area.
+Recupero del bottino
+Distruzione dei dati
+Occultamento del [CARGO]
+Le forze della Milizia stanno scansionando 3 unità di [CARGO] vicino a [LOCATION] e i dati di questi container possono portarli alla nostra posizione. Pagheremo [REWARD] crediti se riesci a recuperare il carico di [CARGO] e riportarlo alla [STAZIONE]. Occhio: se riescip evita di affrontare le forze della Milizia.
+Rapisci il Capitano Krunk!
+I diplomatici Red Devil hanno bisogno di qualcosa di importante per negoziare - e quella cosa è il famoso Capitano P.J. Krunk. Sappiamo che è al comando di una fregata vicino a [LOCATION]. Il bastardo sembra quasi indistruttibile, ma se riesci a distruggere la sua nave probabilmente lo troverai fluttuare nello spazio. Avrai una ricompensa [REWARD] crediti se lo riporti a [STATION].
+Introduzione alla pirateria I
+Soldi facili
+Nave mercantile in [LOCATION]
+Volevi diventare un pirata? Questa è la tua occasione! Sappiamo di un mercante che viaggia vicino a [LOCATION]. [HES_CAP] non ha quasi nessuna difesa. Le uniche ricompense saranno la soddisfazione e il carico che trovarai. Non lasciare sopravvissuti!
+Posizione: [LOCATION]. Obiettivo: commerciante leggero. Ricompensa: tutto il carico. Non lasciare sopravvissuti.
+Il benevolo Cartello Red Devil è generoso con i suoi amici. Ti offriamo le coordinate di un commerciante non protetto che passa attraverso [LOCATION]. Puoi tenerti il carico.
+Introduzione alla pirateria II
+Carovana in [LOCATION]
+Saccheggio dei convogli
+Sembra che ci sia un grosso convoglio mercantile vicino a [LOCATION]. In questo momento siamo un po 'occupati con faccende da "pirati"', ma, se stai cercando un bottino facile, vai a fargli visita...
+Un convoglio di tre mercanti sta attraversando l'area [LOCATION]. Occhio: si ritiene che possa esserci una fregata della Milizia nelle vicinanze.
+Avviso per tutti i capitani indipendenti: abbiamo individuato una carovana mercantile carica beni preziosi che viaggiano vicino a [LOCATION]. Non dimenticare che ci saranno anche le forze della Milizia quando li assalterai.
+Introduzione alla pirateria III
+Navigazione da stimare
+Bottino del magnate
+Il famoso [BOUNTYNAME], magnate della Gilda dei Mercanti, è vicino a [LOCATION] con una grande scorta della Milizia. Previsione: cospicuo bottino!
+L'obiettivo primario [BOUNTYNAME], magnate della Gilda dei Mercanti, è stato avvistato nell'area [LOCATION]. [HIS] noto per il trasporto di carichi rari. É un osso duro e dovrai sudartelo questo bottino. Inoltre, [HIS] è aiutato da molti potenti alleati.
+Abbiamo ricevuto informazioni sul fatto che [BOUNTYNAME] sta trasportando un carico di altissimo valore nell'area [LOCATION]. [HE_CAP] ha dietro una buona scorta, ma il carico dovrebbe compensare lo sforzo fatto.
+[CARGO] di contrabbando
+Abbiamo un "pacchetto" che vorremmo portare a [LOCATION] intatto. Non dovresti saperlo, ma [COUNT] unità di [CARGO] verranno caricate immediatamente nella tua stiva. Portalo a [LOCATION] e otterrai [REWARD] crediti.
+Consegna del [CARGO] contrabbando
 Tenemos que hacerles una entrega a nuestros amigos de [LOCATION]. Cómo consigas burlar a las autoridades locales ya es cosa tuya. [COUNT] unità di [CARGO] se iràn directas a tu stiva. Encuentra la forma de llegar a la stazione de [LOCATION] e te quedaràs con [REWARD] crediti.
 Blanco fijado
 Objetivo: [BOUNTYNAME_LAST]

@@ -3317,14 +3317,14 @@ L'obiettivo primario [BOUNTYNAME], magnate della Gilda dei Mercanti, è stato av
 Abbiamo ricevuto informazioni sul fatto che [BOUNTYNAME] sta trasportando un carico di altissimo valore nell'area [LOCATION]. [HE_CAP] ha dietro una buona scorta, ma il carico dovrebbe compensare lo sforzo fatto.
 [CARGO] di contrabbando
 Abbiamo un "pacchetto" che vorremmo portare a [LOCATION] intatto. Non dovresti saperlo, ma [COUNT] unità di [CARGO] verranno caricate immediatamente nella tua stiva. Portalo a [LOCATION] e otterrai [REWARD] crediti.
-Consegna del [CARGO] contrabbando
-Tenemos que hacerles una entrega a nuestros amigos de [LOCATION]. Cómo consigas burlar a las autoridades locales ya es cosa tuya. [COUNT] unità di [CARGO] se iràn directas a tu stiva. Encuentra la forma de llegar a la stazione de [LOCATION] e te quedaràs con [REWARD] crediti.
-Blanco fijado
-Objetivo: [BOUNTYNAME_LAST]
-Golpe mortal
-¿Has oído hablar de la batalla que se està librando cerca de [LOCATION]? No te pedimos que tomes partido, pero nos vendría bien que alguien se colase e asesinase a [BOUNTYNAME], comandante della Milizia. Il Cartello Red Devil te pagarà con gusto [REWARD] crediti por llevar el asunto con discreción.
-[HIMSELF] comandante [BOUNTYNAME] està liderando un ataque contro las fuerzas Red Devil cerca de [LOCATION]. Por desgracia, creemos que esta batalla ya està perdida, pero [BOUNTYNAME] ha quedado en una posición vulnerable. ¡Métete ahí e elimína[HIM]! Si acabas con [HE], te llevaràs [REWARD] crediti.
-I irregulares Red Devil estàn luchando por sus vidas en la zona de [LOCATION]. No podemos prescindir de ninguna nave, pero ofrecemos [REWARD] crediti a los contratistas que quieran ayudar. Sobre todo, queremos que elimines el destructor de [BOUNTYNAME]. Se accetterai, te facilitaremos le coordinate.
+Consegna del [CARGO] di contrabbando
+Dobbiamo effettuare una consegna ai nostri amici di [LOCATION]. Siccome prendere in giro le autorità locali è il tuo lavoro. [COUNT] unità di [CARGO] verranno caricate direttamente nella tua stiva. Trova un modo per raggiungere la stazione [LOCATION] e otterrai [REWARD] crediti.
+Obiettivo agganciato
+Obiettivo: [BOUNTYNAME_LAST]
+Colpo mortale
+Hai sentito della battaglia che si sta svolgendo vicino a [LOCATION]? Non ti chiediamo di parteciparvi, ma ci servirebbe qualcuno per intrufolarci e uccidere [BOUNTYNAME], comandante di Milizia. Il Cartello Red Devil sarà lieto di pagarti [REWARD] credito per la gestione di questo assassinio fatto con discrezione.
+Lo [HIMSELF] comandante [BOUNTYNAME] sta conducendo un attacco contro le forze Red Devil vicino a [LOCATION]. Sfortunatamente, crediamo che questa battaglia sia già persa, ma [BOUNTYNAME] è stato lasciato in una posizione vulnerabile. Entra ed elimina [HIM]! Se [HE] finisci, otterrai [REWARD] crediti.
+I Red Devil irregolari stanno combattendo per la propria sopravvivenza nell'area [LOCATION]. Non possiamo mandare alcuna nave, ma stiamo offrendo [REWARD] crediti a chi sarà in grado di fornire assistenza. In particolare, vogliamo che il cacciatorpediniere del comandante [BOUNTYNAME] sia distrutto. Coordinate disponibili dopo aver accettato.
 Amigos en apuros
 Conflagración Koriana
 No sabemos qué relación tienes con el Cartello Red Devil, ¡pero seguro que odias aún màs a la escoria Koriana! Haznos e favor e rescata a [BOUNTYNAME]. [HES_CAP] en apuros cerca de [LOCATION] e pagarà [REWARD] crediti por un poco de ayuda.
